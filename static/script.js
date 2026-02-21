@@ -6,6 +6,7 @@ let playlist = [];
 let queue = [];
 let history = []; 
 let likedSongs = [];
+let myPlaylists = {"My Favorites": []}; // State for playlists
 let currentIdx = 0;
 let isShuffle = false;
 let isAutoplay = true;
@@ -91,6 +92,7 @@ async function syncState() {
         const data = await res.json();
         history = data.history || [];
         likedSongs = data.liked || [];
+        myPlaylists = data.playlists || {"My Favorites": []}; // Sync playlists
         if (data.last_song) {
             playlist = [data.last_song];
             currentIdx = 0;
@@ -113,6 +115,7 @@ async function saveState() {
         headers: {'Content-Type': 'application/json'},
         body: JSON.stringify({
             history: history, liked: likedSongs,
+            playlists: myPlaylists, // Save playlists
             last_song: currentTrack, last_time: audio.currentTime
         })
     });
@@ -308,6 +311,7 @@ function showTab(id) {
     if (id === 'home') loadHome();
     if (id === 'history') renderHistory();
     if (id === 'fav') renderLikedSongs();
+    if (id === 'playlist') renderPlaylists(); // Render Playlists
 }
 
 function togglePlay() {
@@ -335,6 +339,39 @@ function toggleLikeCurrent() {
     else likedSongs.splice(idx, 1);
     updateHeartUI();
     saveState();
+}
+
+/* --- PLAYLIST MANAGEMENT --- */
+function addToPlaylist() {
+    const track = playlist[currentIdx];
+    if (!track) return;
+    const pName = "My Favorites";
+    if (!myPlaylists[pName].some(s => s.youtube_id === track.youtube_id)) {
+        myPlaylists[pName].push(track);
+        saveState();
+        alert(`Added to ${pName}`);
+    }
+    document.getElementById('more-menu').style.display = 'none';
+}
+
+function renderPlaylists() {
+    const container = document.getElementById('playlist-container');
+    if (!container) return;
+    let html = "";
+    for (let name in myPlaylists) {
+        html += `<h3 style="margin-bottom:15px; color:var(--green)">${name}</h3><div class="horizontal-scroll">`;
+        html += myPlaylists[name].map((s, idx) => {
+            const data = btoa(unescape(encodeURIComponent(JSON.stringify(s))));
+            return `<div class="card"><img src="${s.image[2].url}" onclick="playFromPlaylist('${name}', ${idx})"><div class="title">${s.name}</div><div class="artist">${s.primaryArtists}</div></div>`;
+        }).join('') || "<p style='color:#666'>No songs added yet.</p>";
+        html += `</div>`;
+    }
+    container.innerHTML = html;
+}
+
+function playFromPlaylist(name, idx) {
+    playlist = [...myPlaylists[name]];
+    playTrack(idx);
 }
 
 audio.ontimeupdate = () => {
