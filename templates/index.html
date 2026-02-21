@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dhwani sutra</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="app-container">
+        <nav class="sidebar">
+            <div class="logo">Dhwani sutra</div>
+            <div class="nav-links">
+                <div class="nav-item active" id="nav-home" onclick="showTab('home')">
+                    <i class="fa fa-home"></i> Home
+                </div>
+                <div class="nav-item" id="nav-chat" onclick="showTab('chat')">
+                    <i class="fa fa-comments"></i> AI Chat
+                </div>
+                <div class="nav-item" id="nav-rec" onclick="showTab('rec')">
+                    <i class="fa fa-wand-magic-sparkles"></i> Suggestions
+                </div>
+                <hr style="border: 0.5px solid #282828; margin: 15px 0;">
+                <div class="nav-item" id="nav-fav" onclick="showTab('fav')">
+                    <i class="fa fa-heart"></i> Liked Songs
+                </div>
+                <div class="nav-item" id="nav-history" onclick="showTab('history')">
+                    <i class="fa fa-history"></i> History
+                </div>
+                <div class="nav-item" id="nav-playlist" onclick="showTab('playlist')">
+                    <i class="fa fa-list"></i> My Playlists
+                </div>
+            </div>
+        </nav>
+
+        <main class="main-view">
+            <div id="home-tab" class="content-tab active">
+                <div class="search-section">
+                    <div class="search-bar">
+                        <input type="text" id="homeSearch" placeholder="Search official audio...">
+                        <button onclick="handleHomeSearch()">Send</button>
+                    </div>
+                </div>
+                <h2 id="home-title">Discover</h2>
+                <div id="home-grid" class="music-grid"></div>
+            </div>
+
+            <div id="chat-tab" class="content-tab">
+                <div id="chat-box" class="chat-display"></div>
+                <div class="tab-search-box">
+                    <input type="text" id="chatInput" placeholder="Ask the AI Assistant...">
+                    <button onclick="handleChat()">Send</button>
+                </div>
+            </div>
+
+            <div id="rec-tab" class="content-tab">
+                <div class="tab-search-box">
+                    <input type="text" id="recInput" placeholder="Get 15 songs like...">
+                    <button onclick="handleRec()">Generate</button>
+                </div>
+                <div id="rec-list" class="list-view"></div>
+            </div>
+
+            <div id="fav-tab" class="content-tab">
+                <h2>Liked Songs</h2>
+                <div id="fav-grid" class="music-grid"></div>
+            </div>
+
+            <div id="history-tab" class="content-tab">
+                <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:20px;">
+                    <h2 class="genre-title">Recent History</h2>
+                    <button onclick="clearHistory()" style="background:transparent; color:red; border:none; cursor:pointer; font-weight:bold;">Clear All</button>
+                </div>
+                <div id="history-grid" class="horizontal-scroll"></div>
+            </div>
+
+            <div id="playlist-tab" class="content-tab">
+                <h2>My Playlists</h2>
+                <div id="playlist-container" class="music-grid">
+                    <p style="color: #b3b3b3; padding: 20px;">Feature coming soon...</p>
+                </div>
+            </div>
+        </main>
+
+        <div id="queue-panel" class="queue-container">
+            <div class="queue-header" onclick="toggleQueue()">
+                <div class="handle"></div>
+                <span>Up Next (AI Predicted)</span>
+            </div>
+            <div id="queue-list" class="queue-list"></div>
+        </div>
+
+        <footer class="player-bar">
+            <div class="now-playing" onclick="toggleQueue()">
+                <img id="p-img" src="" style="display:none">
+                <div class="track-info">
+                    <div id="p-title" class="title">No Song</div>
+                    <div id="p-artist" class="artist">Select track</div>
+                </div>
+            </div>
+
+            <div class="player-controls">
+                <div class="buttons">
+                    <i class="fa fa-shuffle" id="shuffle-btn" onclick="toggleShuffle()" title="Shuffle"></i>
+                    <i class="fa fa-step-backward" onclick="prevTrack()"></i>
+                    <div class="play-trigger" onclick="togglePlay()">
+                        <i id="play-icon" class="fa fa-play"></i>
+                    </div>
+                    <i class="fa fa-step-forward" onclick="nextTrack()"></i>
+                    
+                    <div class="autoplay-toggle" onclick="toggleAutoplay()">
+                        <span id="autoplay-label">AUTO ON</span>
+                        <i class="fa fa-toggle-on" id="autoplay-icon"></i>
+                    </div>
+                </div>
+                <div class="progress-area">
+                    <span id="curTime">0:00</span>
+                    <div class="bar" onclick="seek(event)">
+                        <div id="progress"></div>
+                    </div>
+                    <span id="totTime">0:00</span>
+                </div>
+            </div>
+
+            <div class="more-container">
+                <div class="extra-btns">
+                    <i class="fa-regular fa-heart" id="main-heart" onclick="toggleLikeCurrent()" title="Like / Unlike"></i>
+                    <i class="fa fa-ellipsis-h" onclick="toggleMoreMenu(event)" title="More Options"></i>
+                </div>
+                
+                <div id="more-menu" class="context-menu">
+                    <div onclick="addToPlaylist()"><i class="fa fa-plus"></i> Add to Playlist</div>
+                    <div onclick="downloadCurrent()"><i class="fa fa-download"></i> Download MP3</div>
+                </div>
+            </div>
+        </footer>
+    </div>
+    
+    <script src="/static/script.js"></script>
+</body>
+</html>
