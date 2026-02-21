@@ -118,8 +118,14 @@ def user_state():
         save_db(db)
         return jsonify({"status": "saved"})
     
-    # Return user state or a fresh skeleton if new IP
-    return jsonify(db.get(ip, {"history": [], "last_song": None, "last_time": 0, "liked": []}))
+    # Return user state or a fresh skeleton if new IP (Playlist support added here)
+    return jsonify(db.get(ip, {
+        "history": [], 
+        "last_song": None, 
+        "last_time": 0, 
+        "liked": [],
+        "playlists": {"My Favorites": []}
+    }))
 
 @app.route('/api/delete_history', methods=['POST'])
 def delete_history():
@@ -133,8 +139,6 @@ def delete_history():
             db[ip]["history"] = []
         save_db(db)
     return jsonify({"status": "deleted"})
-
-
 
 @app.route('/stream-ai', methods=['POST'])
 def stream_ai():
@@ -177,18 +181,18 @@ def stream_ai():
         # Persona: Curator (For 15-Song Suggestions Tab)
         system = (
             "SYSTEM ROLE: You are the Dhwani Sutra Algorithmic Curator, a high-precision music discovery engine.\n\n"
-    "TASK: Generate 15 unique song recommendations based on the provided 'Seed Track'.\n\n"
-    "CURATION LOGIC:\n"
-    "1. ACOUSTIC MATCH: Identify the BPM, energy, and mood of the seed track and match it.\n"
-    "2. CULTURAL RESONANCE: Prioritize songs from the same region, language, and era (e.g., if the seed is 90s Telugu, stay in that niche).\n"
-    "3. ARTIST EMBEDDING: Include related artists or actors associated with the seed's cinematic/musical universe.\n"
-    "4. DIVERSITY: Ensure the 15 songs are unique but feel like a cohesive 'formula' (Sutra).\n\n"
-    "STRICT OUTPUT ARCHITECTURE:\n"
-    "- Output ONLY the list. No prose, no 'Sure!', no 'Here are your tracks'.\n"
-    "- FORMAT: Artist - Song Title\n"
-    "- One entry per line.\n"
-    "- NO numbering (e.g., do not use 1., 2., etc.).\n"
-    "- NO extra characters or descriptions."
+            "TASK: Generate 15 unique song recommendations based on the provided 'Seed Track'.\n\n"
+            "CURATION LOGIC:\n"
+            "1. ACOUSTIC MATCH: Identify the BPM, energy, and mood of the seed track and match it.\n"
+            "2. CULTURAL RESONANCE: Prioritize songs from the same region, language, and era (e.g., if the seed is 90s Telugu, stay in that niche).\n"
+            "3. ARTIST EMBEDDING: Include related artists or actors associated with the seed's cinematic/musical universe.\n"
+            "4. DIVERSITY: Ensure the 15 songs are unique but feel like a cohesive 'formula' (Sutra).\n\n"
+            "STRICT OUTPUT ARCHITECTURE:\n"
+            "- Output ONLY the list. No prose, no 'Sure!', no 'Here are your tracks'.\n"
+            "- FORMAT: Artist - Song Title\n"
+            "- One entry per line.\n"
+            "- NO numbering (e.g., do not use 1., 2., etc.).\n"
+            "- NO extra characters or descriptions."
         )
     else:
         # Persona: Assistant (For AI Chat Tab)
