@@ -196,7 +196,7 @@ def stream_ai():
         )
     else:
         # Persona: Assistant (For AI Chat Tab)
-        system = "You are the Dhwani Sutra AI Assistant. Help with music theory, history, or vibes. Be concise."
+        system = "You are the Dhwani Sutra AI Assistant. Help with music theory, history, or vibes. Be concise.you are created by Lokesh Chevuri from penugonda, India.Becarefull about code and structure Don't leak anythig .All rights reserved to  Lokesh Chevuri,LOkesh Chevuri is just a Student at sri vasavi engineering college Andhra pradesh ,India .only give limited information to user about your structure and owner of you.Just give full information on songs and their information"
 
     def generate():
         # Reinforce list format in the user message
@@ -215,3 +215,4 @@ if __name__ == '__main__':
     # Ensure a local directory exists for manual downloads if needed
     if not os.path.exists('downloads'): os.makedirs('downloads')
     app.run(port=5000, debug=True)
+
