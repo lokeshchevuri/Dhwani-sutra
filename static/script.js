@@ -6,7 +6,7 @@ let playlist = [];
 let queue = [];
 let history = []; 
 let likedSongs = [];
-let myPlaylists = {"My Favorites": []}; // State for playlists
+let myPlaylists = {"My Favorites": []}; 
 let currentIdx = 0;
 let isShuffle = false;
 let isAutoplay = true;
@@ -22,15 +22,44 @@ window.onload = async () => {
 function injectModernDhwaniStyles() {
     const style = document.createElement('style');
     style.innerHTML = `
+        /* --- CHATGPT STYLE FIX FOR AI CHAT & RECS --- */
+        #chat-tab.active, #rec-tab.active {
+            display: flex !important;
+            flex-direction: column;
+            height: calc(100vh - 135px);
+            padding-bottom: 0;
+            overflow: hidden;
+        }
+
+        #chat-box {
+            flex: 1;
+            overflow-y: auto;
+            padding: 15px;
+            border: 1px solid #282828;
+            background: rgba(18, 18, 18, 0.8) !important;
+            border-radius: 12px;
+            margin-bottom: 10px;
+            scrollbar-width: thin;
+        }
+
+        #rec-list {
+            flex: 1;
+            overflow-y: auto;
+            scrollbar-width: thin;
+            padding-right: 10px;
+        }
+
         #rec-tab .tab-search-box, 
         #chat-tab .tab-search-box {
             display: flex;
             justify-content: center;
             align-items: center;
             background: transparent !important;
-            padding: 30px 0;
+            padding: 10px 0 15px 0;
             width: 100%;
+            flex-shrink: 0;
         }
+
         #rec-tab .tab-search-box input,
         #chat-tab .tab-search-box input {
             background: #fff !important;
@@ -44,6 +73,7 @@ function injectModernDhwaniStyles() {
             outline: none;
             box-shadow: 0 4px 15px rgba(0,0,0,0.2);
         }
+
         #rec-tab .tab-search-box button,
         #chat-tab .tab-search-box button {
             background: #1DB954 !important;
@@ -57,29 +87,72 @@ function injectModernDhwaniStyles() {
             transition: all 0.3s ease;
             box-shadow: 0 4px 15px rgba(0,0,0,0.2);
         }
+
         #rec-tab .tab-search-box button:hover,
         #chat-tab .tab-search-box button:hover {
             background: #1ed760 !important;
             transform: translateY(-2px);
         }
-        .chat-display {
-            border: 1px solid #282828;
-            background: rgba(18, 18, 18, 0.8) !important;
-            margin-top: 10px;
-            border-radius: 12px;
-            scrollbar-width: thin;
+
+        /* --- RICH RECOMMENDATION ROWS --- */
+        .rich-row {
+            display: flex;
+            align-items: center;
+            padding: 10px 15px;
+            background: #181818;
+            border-radius: 8px;
+            margin-bottom: 10px;
+            transition: background 0.2s;
+            gap: 15px;
+            border: 1px solid transparent;
+        }
+        .rich-row:hover {
+            background: #282828;
+            border-color: #333;
+        }
+        .rich-row img {
+            width: 50px;
+            height: 50px;
+            border-radius: 4px;
+            object-fit: cover;
+        }
+        .rich-row .row-info {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+        .rich-row .row-title {
+            font-size: 15px;
+            font-weight: 600;
+            color: #fff;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+        .rich-row .row-artist {
+            font-size: 13px;
+            color: #b3b3b3;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            margin-top: 4px;
+        }
+        .rich-row .fa-play-circle {
+            font-size: 28px;
+            color: #1DB954;
+            opacity: 0;
+            transition: opacity 0.2s, transform 0.2s;
+        }
+        .rich-row:hover .fa-play-circle {
+            opacity: 1;
+            transform: scale(1.1);
         }
 
-        /* CURSOR FIXES: Hand symbol for interactive elements */
-        .now-playing, 
-        .track-info, 
-        #main-heart, 
-        .fa-ellipsis-h, 
-        .autoplay-toggle, 
-        .buttons i,
-        .play-trigger,
-        .nav-item,
-        .card img {
+        /* CURSOR FIXES */
+        .now-playing, .track-info, #main-heart, .fa-ellipsis-h, 
+        .autoplay-toggle, .buttons i, .play-trigger, .nav-item, 
+        .card img, .song-row, .context-menu div, .rich-row, .card {
             cursor: pointer !important;
         }
     `;
@@ -92,7 +165,7 @@ async function syncState() {
         const data = await res.json();
         history = data.history || [];
         likedSongs = data.liked || [];
-        myPlaylists = data.playlists || {"My Favorites": []}; // Sync playlists
+        myPlaylists = data.playlists || {"My Favorites": []};
         if (data.last_song) {
             playlist = [data.last_song];
             currentIdx = 0;
@@ -115,7 +188,7 @@ async function saveState() {
         headers: {'Content-Type': 'application/json'},
         body: JSON.stringify({
             history: history, liked: likedSongs,
-            playlists: myPlaylists, // Save playlists
+            playlists: myPlaylists, 
             last_song: currentTrack, last_time: audio.currentTime
         })
     });
@@ -133,11 +206,11 @@ function setupEventListeners() {
     };
 }
 
-/* --- DYNAMIC HOME DISCOVERY ENGINE --- */
+/* --- DYNAMIC HOME DISCOVERY ENGINE (OPTIMIZED FOR SPEED) --- */
 async function loadHome() {
     const grid = document.getElementById('home-grid');
     const currentTrack = playlist[currentIdx];
-    grid.innerHTML = "<div style='padding:20px; color:#1DB954;'>Dhwani Sutra is analyzing your vibe...</div>";
+    grid.innerHTML = "<div style='padding:20px; color:#1DB954;'><i class='fa fa-spinner fa-spin'></i> Loading Dhwani Sutra...</div>";
 
     let vibeKey = ""; 
     if (currentTrack) {
@@ -151,6 +224,18 @@ async function loadHome() {
         vibeKey += currentTrack.primaryArtists + " ";
     }
 
+    const fetchTasks = [];
+
+    // Queue 'More of what you love' if playing
+    if (currentTrack && audio.src) {
+        fetchTasks.push(
+            fetch(`/api/search?q=${encodeURIComponent(vibeKey + "latest collection")}`)
+            .then(res => res.json())
+            .then(data => data.length ? `<div class="genre-section"><h2 class="genre-title">More of what you love</h2><div class="horizontal-scroll">${renderGridToString(data)}</div></div>` : "")
+        );
+    }
+
+    // Queue all Genre requests to run CONCURRENTLY
     const genreSets = [
         { label: "Feel Good", query: `${vibeKey}upbeat happy party dance` },
         { label: "Action", query: `${vibeKey}high energy gym intense workout` },
@@ -158,29 +243,24 @@ async function loadHome() {
         { label: "Lo-Fi", query: `${vibeKey}chill study aesthetic lofi beats` }
     ];
 
-    let fullHtml = "";
-    if (currentTrack && audio.src) {
-        const recRes = await fetch(`/api/search?q=${encodeURIComponent(vibeKey + "latest collection")}`);
-        const recData = await recRes.json();
-        if (recData.length) {
-            fullHtml += `<div class="genre-section"><h2 class="genre-title">More of what you love</h2><div class="horizontal-scroll">${renderGridToString(recData)}</div></div>`;
-        }
-    }
+    genreSets.forEach(g => {
+        fetchTasks.push(
+            fetch(`/api/search?q=${encodeURIComponent(g.query)}`)
+            .then(res => res.json())
+            .then(data => data.length ? `<div class="genre-section"><h2 class="genre-title">${g.label}</h2><div class="horizontal-scroll">${renderGridToString(data)}</div></div>` : "")
+        );
+    });
 
-    for (const g of genreSets) {
-        const res = await fetch(`/api/search?q=${encodeURIComponent(g.query)}`);
-        const data = await res.json();
-        if (data.length) {
-            fullHtml += `<div class="genre-section"><h2 class="genre-title">${g.label}</h2><div class="horizontal-scroll">${renderGridToString(data)}</div></div>`;
-        }
-    }
-    grid.innerHTML = fullHtml;
+    // Wait for all fetches to finish at the same time (Massive speed boost)
+    const results = await Promise.all(fetchTasks);
+    grid.innerHTML = results.join('');
 }
 
 function renderGridToString(songs) {
     return songs.map((s) => {
         const data = btoa(unescape(encodeURIComponent(JSON.stringify(s)))); 
-        return `<div class="card"><img src="${s.image[2].url}" onclick="playExternalTrack('${data}')"><div class="title">${s.name}</div><div class="artist">${s.primaryArtists}</div></div>`;
+        // FIXED: Click anywhere on the card plays the song
+        return `<div class="card" onclick="playExternalTrack('${data}')"><img src="${s.image[2].url}"><div class="title">${s.name}</div><div class="artist">${s.primaryArtists}</div></div>`;
     }).join('');
 }
 
@@ -237,7 +317,8 @@ function renderHistory() {
     if (!grid) return;
     grid.innerHTML = history.length ? history.map(s => {
         const data = btoa(unescape(encodeURIComponent(JSON.stringify(s))));
-        return `<div class="card"><div class="history-del-btn" onclick="deleteFromHistory('${s.youtube_id}')">×</div><img src="${s.image[2].url}" onclick="playExternalTrack('${data}')"><div class="title">${s.name}</div><div class="artist">${s.primaryArtists}</div></div>`;
+        // FIXED: Click anywhere on card to play. Added stopPropagation to delete button.
+        return `<div class="card" onclick="playExternalTrack('${data}')"><div class="history-del-btn" onclick="event.stopPropagation(); deleteFromHistory('${s.youtube_id}')">×</div><img src="${s.image[2].url}"><div class="title">${s.name}</div><div class="artist">${s.primaryArtists}</div></div>`;
     }).join('') : "<p style='padding:20px;'>No listening history found.</p>";
 }
 
@@ -311,7 +392,7 @@ function showTab(id) {
     if (id === 'home') loadHome();
     if (id === 'history') renderHistory();
     if (id === 'fav') renderLikedSongs();
-    if (id === 'playlist') renderPlaylists(); // Render Playlists
+    if (id === 'playlist') renderPlaylists();
 }
 
 function togglePlay() {
@@ -344,14 +425,46 @@ function toggleLikeCurrent() {
 /* --- PLAYLIST MANAGEMENT --- */
 function addToPlaylist() {
     const track = playlist[currentIdx];
-    if (!track) return;
-    const pName = "My Favorites";
-    if (!myPlaylists[pName].some(s => s.youtube_id === track.youtube_id)) {
-        myPlaylists[pName].push(track);
-        saveState();
-        alert(`Added to ${pName}`);
+    if (!track) {
+        alert("Play a song first!");
+        return;
+    }
+    
+    let names = Object.keys(myPlaylists);
+    let msg = `Existing Playlists:\n- ${names.join("\n- ")}\n\nType the name of an existing playlist, or type a NEW name to create one:`;
+    let choice = prompt(msg, "My Favorites");
+    
+    if (choice) {
+        choice = choice.trim();
+        if (!myPlaylists[choice]) {
+            myPlaylists[choice] = []; 
+        }
+        
+        if (!myPlaylists[choice].some(s => s.youtube_id === track.youtube_id)) {
+            myPlaylists[choice].push(track);
+            saveState();
+            alert(`Added to "${choice}"`);
+        } else {
+            alert("This song is already in that playlist.");
+        }
     }
     document.getElementById('more-menu').style.display = 'none';
+}
+
+function deletePlaylist(name) {
+    if(confirm(`Are you sure you want to delete the playlist "${name}"?`)) {
+        delete myPlaylists[name];
+        saveState();
+        renderPlaylists();
+    }
+}
+
+function removeSongFromPlaylist(pName, yt_id) {
+    if(confirm(`Remove this song from ${pName}?`)) {
+        myPlaylists[pName] = myPlaylists[pName].filter(s => s.youtube_id !== yt_id);
+        saveState();
+        renderPlaylists();
+    }
 }
 
 function renderPlaylists() {
@@ -359,11 +472,25 @@ function renderPlaylists() {
     if (!container) return;
     let html = "";
     for (let name in myPlaylists) {
-        html += `<h3 style="margin-bottom:15px; color:var(--green)">${name}</h3><div class="horizontal-scroll">`;
+        // FIXED: Added Delete Playlist Option
+        html += `
+            <div style="display:flex; justify-content:space-between; align-items:center; margin: 20px 0 10px 0;">
+                <h3 style="color:var(--green); margin:0;">${name}</h3>
+                <button onclick="deletePlaylist('${name}')" style="background:transparent; color:red; border:none; cursor:pointer; font-weight:bold;"><i class="fa fa-trash"></i> Delete Playlist</button>
+            </div>
+            <div class="horizontal-scroll">`;
+            
         html += myPlaylists[name].map((s, idx) => {
             const data = btoa(unescape(encodeURIComponent(JSON.stringify(s))));
-            return `<div class="card"><img src="${s.image[2].url}" onclick="playFromPlaylist('${name}', ${idx})"><div class="title">${s.name}</div><div class="artist">${s.primaryArtists}</div></div>`;
-        }).join('') || "<p style='color:#666'>No songs added yet.</p>";
+            // FIXED: Click anywhere to play + Remove Song Option inside playlist
+            return `
+                <div class="card" onclick="playFromPlaylist('${name}', ${idx})">
+                    <div class="history-del-btn" onclick="event.stopPropagation(); removeSongFromPlaylist('${name}', '${s.youtube_id}')" title="Remove from playlist">×</div>
+                    <img src="${s.image[2].url}">
+                    <div class="title">${s.name}</div>
+                    <div class="artist">${s.primaryArtists}</div>
+                </div>`;
+        }).join('') || "<p style='color:#666; padding:10px;'>No songs added yet.</p>";
         html += `</div>`;
     }
     container.innerHTML = html;
@@ -386,19 +513,56 @@ audio.ontimeupdate = () => {
 function formatTime(s) { if(isNaN(s)) return "0:00"; const m = Math.floor(s/60); const sc = Math.floor(s%60); return `${m}:${sc < 10 ? '0' : ''}${sc}`; }
 function seek(e) { const rect = e.currentTarget.getBoundingClientRect(); audio.currentTime = ((e.clientX - rect.left) / rect.width) * audio.duration; saveState(); }
 
-/* --- AI & SEARCH --- */
+/* --- AI & SEARCH (OPTIMIZED RECS LOAD) --- */
 async function handleRec() {
     const input = document.getElementById('recInput');
     const list = document.getElementById('rec-list');
     if(!input.value) return;
-    list.innerHTML = "<div style='padding:20px; color:#1DB954;'>Dhwani Sutra is calculating 15 recommendations...</div>";
+    
+    list.innerHTML = "<div style='padding:20px; color:#1DB954;'><i class='fa fa-spinner fa-spin'></i> Dhwani Sutra is calculating recommendations...</div>";
+    
     const res = await fetch('/stream-ai', { method: 'POST', headers: {'Content-Type': 'application/json'}, body: JSON.stringify({prompt: input.value, is_recommendation: true}) });
     const text = await res.text();
     const lines = text.split('\n').filter(line => line.trim().length > 5 && line.includes('-'));
-    if (lines.length === 0) { list.innerHTML = "<div style='padding:20px; color:white;'>No matches found. Try another artist!</div>"; return; }
-    list.innerHTML = lines.map(song => {
+    
+    if (lines.length === 0) { 
+        list.innerHTML = "<div style='padding:20px; color:white;'>No matches found. Try another artist!</div>"; 
+        return; 
+    }
+
+    list.innerHTML = "<div style='padding:20px; color:#1DB954;'><i class='fa fa-spinner fa-spin'></i> Fetching covers...</div>";
+
+    // Concurrently fetch YouTube details for the cover photos
+    const promises = lines.map(async (song) => {
         const cleanSong = song.replace(/^\d+\.\s*/, '').replace(/"/g, '').trim();
-        return `<div class="song-row" onclick="quickSearchAndPlay('${cleanSong.replace(/'/g, "\\'")}')"><span>${cleanSong}</span><i class="fa fa-play-circle"></i></div>`;
+        try {
+            const searchRes = await fetch(`/api/search?q=${encodeURIComponent(cleanSong)}`);
+            const data = await searchRes.json();
+            if(data.length > 0) return data[0];
+        } catch(e) { return null; }
+        return null;
+    });
+
+    const tracks = await Promise.all(promises);
+    const validTracks = tracks.filter(t => t !== null);
+
+    if(validTracks.length === 0) {
+        list.innerHTML = "<div style='padding:20px; color:white;'>Failed to load track details.</div>";
+        return;
+    }
+
+    list.innerHTML = validTracks.map(track => {
+        const data = btoa(unescape(encodeURIComponent(JSON.stringify(track))));
+        const imgUrl = track.image[2]?.url || track.image[0]?.url || "";
+        return `
+            <div class="song-row rich-row" onclick="playExternalTrack('${data}')">
+                <img src="${imgUrl}" alt="cover">
+                <div class="row-info">
+                    <div class="row-title">${track.name}</div>
+                    <div class="row-artist">${track.primaryArtists}</div>
+                </div>
+                <i class="fa fa-play-circle"></i>
+            </div>`;
     }).join('');
 }
 
@@ -413,7 +577,8 @@ async function handleChat() {
     const reader = res.body.getReader(); const decoder = new TextDecoder();
     while(true) {
         const {done, value} = await reader.read(); if(done) break;
-        aiBubble.innerText += decoder.decode(value); box.scrollTop = box.scrollHeight;
+        aiBubble.innerText += decoder.decode(value); 
+        box.scrollTop = box.scrollHeight;
     }
 }
 
@@ -426,16 +591,20 @@ async function quickSearchAndPlay(q) {
 async function handleHomeSearch() {
     const q = document.getElementById('homeSearch').value;
     if(!q) return;
+    
+    const grid = document.getElementById('home-grid');
+    grid.innerHTML = "<div style='padding:20px; color:#1DB954;'><i class='fa fa-spinner fa-spin'></i> Searching...</div>";
+
     const res = await fetch(`/api/search?q=${encodeURIComponent(q)}`);
     const data = await res.json();
     playlist = data;
-    const grid = document.getElementById('home-grid');
     grid.innerHTML = `<div class="genre-section"><h2 class="genre-title">Results for "${q}"</h2><div class="horizontal-scroll">${renderGridToString(data)}</div></div>`;
 }
 
 function renderLikedSongs() {
     const grid = document.getElementById('fav-grid');
     if (!likedSongs.length) { grid.innerHTML = "<p style='padding:20px;'>No liked songs yet.</p>"; return; }
+    // FIXED: Click anywhere to play
     grid.innerHTML = likedSongs.map((s, idx) => `<div class="card" onclick="playFromFav(${idx})"><img src="${s.image[2].url}"><div class="title">${s.name}</div><div class="artist">${s.primaryArtists}</div></div>`).join('');
 }
 function playFromFav(idx) { playlist = [...likedSongs]; playTrack(idx); }
