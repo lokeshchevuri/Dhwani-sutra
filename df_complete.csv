@@ -1,0 +1,501 @@
+track_uri,track,artist,artist_popularity,followers,artist_genre,track_popularity,album,year,danceability,valence,energy,tempo,loudness,speechiness,instrumentalness,liveness,acousticness,key
+6DCZcSspjsKoFjzjrWoCdn,God's Plan,Drake,97,70260570,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",83,Scorpion,2018,0.754,0.357,0.449,77.169,-9.211,0.109,8.29e-05,0.552,0.0332,7
+0e7ipj03S05BNilyu5bRzt,rockstar (feat. 21 Savage),Post Malone,89,39233698,"['dfw rap', 'melodic rap', 'rap']",83,beerbongs & bentleys,2018,0.585,0.129,0.52,159.801,-6.136,0.0712,7.01e-05,0.131,0.124,5
+09mEdoA6zrmBPgTEN5qXmN,Call Out My Name,The Weeknd,96,55208147,"['canadian contemporary r&b', 'canadian pop', 'pop']",88,"My Dear Melancholy,",2018,0.461,0.175,0.593,134.17,-4.954,0.0356,0.0,0.307,0.17,1
+0u2P5u6lvoDfwTYjAADbn4,lovely (with Khalid),Billie Eilish,89,73989789,"['art pop', 'electropop', 'pop']",88,lovely (with Khalid),2018,0.351,0.12,0.296,115.284,-10.109,0.0333,0.0,0.095,0.934,4
+7ef4DlsgrMEH11cDZd32M6,One Kiss (with Dua Lipa),Calvin Harris,85,23066688,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'progressive house', 'uk dance']",87,One Kiss (with Dua Lipa),2018,0.791,0.592,0.862,123.994,-3.24,0.11,2.19e-05,0.0814,0.037,9
+285pBltuF7vW8TeWk8hdRR,Lucid Dreams,Juice WRLD,91,27045858,"['chicago rap', 'melodic rap']",84,Goodbye & Good Riddance,2018,0.511,0.218,0.566,83.903,-7.23,0.2,0.0,0.34,0.349,6
+09IStsImFySgyp0pIQdqAc,The Middle,Zedd,76,5866220,"['complextro', 'dance pop', 'edm', 'electro house', 'electropop', 'german techno', 'pop', 'pop dance', 'pop rap', 'tropical house']",79,The Middle,2018,0.753,0.437,0.657,107.01,-3.061,0.0449,0.0,0.112,0.171,7
+08bNPGLD8AhKpnnERrAc6G,FRIENDS,Marshmello,83,34652549,"['brostep', 'dance pop', 'edm', 'pop', 'pop dance', 'progressive electro house']",78,FRIENDS,2018,0.626,0.534,0.88,95.079,-2.384,0.0504,0.0,0.128,0.205,9
+58q2HKrzhC3ozto2nDdN4z,I Like It,Cardi B,82,20869665,"['dance pop', 'pop', 'rap']",77,Invasion of Privacy,2018,0.816,0.65,0.726,136.048,-3.998,0.129,0.0,0.372,0.099,5
+6IPwKM3fUUzlElbvKw2sKl,we fell in love in october,girl in red,77,5643207,"['bedroom pop', 'indie pop', 'norwegian indie', 'pop']",85,we fell in love in october / October Passed Me By,2018,0.566,0.237,0.366,129.96,-12.808,0.028,0.181,0.155,0.113,7
+2qT1uLXPVPzGgFOx4jtEuo,no tears left to cry,Ariana Grande,92,86223116,"['dance pop', 'pop']",77,Sweetener,2018,0.699,0.354,0.713,121.993,-5.507,0.0594,3.11e-06,0.294,0.04,9
+3GCdLUSnKSMJhs4Tj6CV3s,All The Stars (with SZA),Kendrick Lamar,89,22417769,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",84,Black Panther The Album Music From And Inspired By,2018,0.698,0.552,0.633,96.924,-4.946,0.0597,0.000194,0.0926,0.0605,8
+7sO5G9EABYOXQKNPNiE9NR,Ric Flair Drip (with Metro Boomin),Offset,79,2575672,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap', 'viral rap']",83,Without Warning,2018,0.88,0.333,0.428,100.007,-8.28,0.206,5.05e-05,0.114,0.149,9
+3ee8Jmje8o58CHK66QrVC2,SAD!,XXXTENTACION,88,39590330,"['emo rap', 'miami hip hop']",82,?,2018,0.74,0.473,0.613,75.023,-4.88,0.145,0.00372,0.123,0.258,8
+2dpaYNEQHiRxtZbfNsse99,Happier,Marshmello,83,34652549,"['brostep', 'dance pop', 'edm', 'pop', 'pop dance', 'progressive electro house']",82,Happier,2018,0.687,0.671,0.792,100.015,-2.749,0.0452,0.0,0.167,0.191,5
+6vN77lE9LK6HP2DewaN6HZ,Yes Indeed,Lil Baby,90,12536759,"['atl hip hop', 'atl trap', 'rap', 'trap']",81,Harder Than Ever,2018,0.963,0.562,0.346,119.957,-9.309,0.53,0.0,0.108,0.0355,5
+2xLMifQCjDGFmkHkpNLD9h,SICKO MODE,Travis Scott,91,21604073,"['rap', 'slap house']",81,ASTROWORLD,2018,0.834,0.446,0.73,155.008,-3.714,0.222,0.0,0.124,0.00513,8
+2BgEsaKNfHUdlh97KmvFyo,2002,Anne-Marie,78,10412866,"['dance pop', 'pop', 'pop dance', 'post-teen pop', 'tropical house', 'uk pop']",81,Speak Your Mind (Deluxe),2018,0.697,0.603,0.683,96.133,-2.881,0.117,0.0,0.137,0.0372,1
+2FY7b99s15jUprqC0M5NCT,Natural,Imagine Dragons,89,44343273,"['modern rock', 'rock']",81,Origins (Deluxe),2018,0.704,0.22,0.611,100.0,-6.112,0.0409,0.0,0.0812,0.217,2
+0EcQcdcbQeVJn9fknj44Be,I Like Me Better,Lauv,77,5477186,['pop'],80,I met you when I was 18. (the playlist),2018,0.753,0.419,0.505,91.972,-7.621,0.255,2.58e-06,0.104,0.534,9
+6PGoSes0D9eUDeeAafB2As,LOVE. FEAT. ZACARI.,Kendrick Lamar,89,22417769,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",82,DAMN.,2018,0.8,0.779,0.585,126.058,-7.343,0.0924,0.0,0.153,0.264,10
+7dt6x5M1jzdTEt8oCbisTK,Better Now,Post Malone,89,39233698,"['dfw rap', 'melodic rap', 'rap']",80,beerbongs & bentleys,2018,0.68,0.341,0.578,145.038,-5.804,0.04,0.0,0.135,0.331,10
+0JP9xo3adEtGSdUEISiszL,Moonlight,XXXTENTACION,88,39590330,"['emo rap', 'miami hip hop']",82,?,2018,0.921,0.711,0.537,128.009,-5.723,0.0804,0.00404,0.102,0.556,9
+7vGuf3Y35N4wmASOKLUVVU,Silence,Marshmello,83,34652549,"['brostep', 'dance pop', 'edm', 'pop', 'pop dance', 'progressive electro house']",80,Silence,2018,0.52,0.286,0.761,141.971,-3.093,0.0853,4.96e-06,0.17,0.256,4
+52okn5MNA47tk87PeZJLEL,Let You Down,NF,80,7753734,"['hip hop', 'pop rap', 'rap']",79,Perception,2018,0.662,0.464,0.714,147.997,-5.68,0.121,0.0,0.179,0.312,5
+0tBbt8CrmxbjRP0pueQkyU,Wolves,Selena Gomez,85,39199832,"['dance pop', 'pop', 'post-teen pop']",79,Wolves,2018,0.724,0.306,0.804,124.987,-4.614,0.0448,0.0,0.204,0.124,11
+3EPXxR3ImUwfayaurPi3cm,Be Alright,Dean Lewis,79,2350982,"['australian pop', 'pop']",78,Be Alright,2018,0.553,0.443,0.586,126.684,-6.319,0.0362,0.0,0.0813,0.697,11
+76cy1WJvNGJTj78UqeA5zr,IDGAF,Dua Lipa,88,37860792,"['dance pop', 'pop', 'uk pop']",78,Dua Lipa (Deluxe),2018,0.836,0.51,0.544,97.028,-5.975,0.0943,0.0,0.0824,0.0403,7
+7AFASza1mXqntmGtbxXprO,changes,XXXTENTACION,88,39590330,"['emo rap', 'miami hip hop']",79,?,2018,0.669,0.52,0.308,64.934,-10.068,0.029,0.0,0.0984,0.883,11
+5OCJzvD7sykQEKHH7qAC3C,God is a woman,Ariana Grande,92,86223116,"['dance pop', 'pop']",78,Sweetener,2018,0.602,0.268,0.658,145.031,-5.934,0.0558,6e-05,0.237,0.0233,1
+6NFyWDv5CjfwuzoCkw47Xf,Delicate,Taylor Swift,99,64803537,['pop'],78,reputation,2018,0.75,0.0499,0.404,95.045,-10.178,0.0682,0.000357,0.0911,0.216,9
+0TlLq3lA83rQOYtrqBqSct,Nonstop,Drake,97,70260570,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",77,Scorpion,2018,0.912,0.423,0.412,154.983,-8.074,0.123,0.0126,0.104,0.0165,7
+0E9ZjEAyAwOXZ7wJC0PD33,In My Mind,Dynoro,67,249292,"['edm', 'electro house', 'pop dance', 'tropical house']",77,In My Mind,2018,0.694,0.163,0.77,125.905,-5.335,0.149,1.1e-05,0.118,0.176,6
+5k38wzpLb15YgncyWdTZE4,Him & I (with Halsey),G-Eazy,76,5121831,"['hip hop', 'indie pop rap', 'oakland hip hop', 'pop', 'pop rap', 'rap']",77,The Beautiful & Damned,2018,0.589,0.191,0.731,87.908,-6.343,0.0868,0.0,0.308,0.0534,2
+3V8UKqhEK5zBkBb6d6ub8i,Te Boté - Remix,Nio Garcia,74,4134372,"['latin hip hop', 'reggaeton', 'trap latino', 'urbano latino']",77,Te Boté (Remix),2018,0.903,0.442,0.675,96.507,-3.445,0.214,1.28e-05,0.0595,0.542,11
+1xzBco0xcoJEDXktl7Jxrr,Mo Bamba,Sheck Wes,66,1367271,"['rap', 'trap', 'vapor trap', 'viral rap']",77,MUDBOY,2018,0.729,0.261,0.625,146.034,-5.266,0.0315,0.00986,0.248,0.194,4
+3swc6WTsr7rl9DqQKQA55C,Psycho (feat. Ty Dolla $ign),Post Malone,89,39233698,"['dfw rap', 'melodic rap', 'rap']",76,beerbongs & bentleys,2018,0.75,0.459,0.56,140.06,-8.094,0.105,0.0,0.111,0.546,8
+2UVbBKQOdFAekPTRsnkzcf,Stir Fry,Migos,78,12824885,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",76,Culture II,2018,0.817,0.508,0.816,181.982,-5.402,0.269,0.0,0.159,0.00263,2
+5Gu0PDLN4YJeW75PpBSg9p,"Let Me Go (with Alesso, Florida Georgia Line & watt)",Hailee Steinfeld,72,8316172,"['dance pop', 'pop', 'post-teen pop']",75,"Let Me Go (with Alesso, Florida Georgia Line & watt)",2018,0.664,0.742,0.708,103.07,-4.154,0.0474,0.0,0.0841,0.0337,8
+4ofwffwvvnbSkrMSCKQDaC,Shotgun,George Ezra,75,3882907,"['folk-pop', 'neo-singer-songwriter']",75,Staying at Tamara's,2018,0.673,0.754,0.735,115.744,-4.733,0.0457,0.0,0.242,0.286,5
+3CA9pLiwRIGtUBiMjbZmRw,Nice For What,Drake,97,70260570,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",76,Scorpion,2018,0.585,0.758,0.909,93.372,-6.474,0.0707,9.7e-05,0.119,0.0891,8
+4w8niZpiMy6qz1mntFA5uM,"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",DJ Snake,78,8276215,"['dance pop', 'edm', 'electronic trap', 'pop', 'pop dance', 'pop rap']",75,"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",2018,0.842,0.617,0.801,95.881,-4.167,0.228,4.82e-06,0.0642,0.157,8
+6n4U3TlzUGhdSFbUUhTvLP,Walk It Talk It,Migos,78,12824885,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",75,Culture II,2018,0.907,0.395,0.633,145.914,-5.145,0.184,2.6e-06,0.106,0.0876,2
+4QtiVmuA88tPQiCOHZuQ5b,"1, 2, 3 (feat. Jason Derulo & De La Ghetto)",Sofía Reyes,70,2776794,"['dance pop', 'latin pop', 'mexican pop']",74,"1, 2, 3 (feat. Jason Derulo & De La Ghetto)",2018,0.792,0.794,0.895,94.968,-3.112,0.0589,0.0,0.0501,0.165,1
+1j6xOGusnyXq3l6IryKF3G,Déjala Que Vuelva (feat. Manuel Turizo),Piso 21,77,8682482,"['colombian pop', 'latin pop', 'reggaeton', 'reggaeton colombiano', 'urbano latino']",74,Ubuntu,2018,0.681,0.839,0.788,170.019,-4.323,0.0785,0.0,0.0753,0.0482,1
+3TgMcrV32NUKjEG2ujn9eh,It's Not Living (If It's Not With You),The 1975,82,6139042,"['modern alternative rock', 'modern rock', 'pop', 'rock']",74,A Brief Inquiry Into Online Relationships,2018,0.618,0.526,0.837,121.227,-5.338,0.0304,0.000378,0.0618,0.000254,1
+2G7V7zsVDxg1yRsu7Ew9RJ,In My Feelings,Drake,97,70260570,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",74,Scorpion,2018,0.835,0.35,0.626,91.03,-5.833,0.125,6e-05,0.396,0.0589,1
+21RzyxY3EFaxVy6K4RqaU9,Body,Loud Luxury,70,590154,"['dance pop', 'edm', 'electro house', 'pop', 'pop dance', 'tropical house']",74,Body,2018,0.752,0.582,0.764,121.958,-4.399,0.038,9.44e-05,0.0543,0.0476,1
+0d2iYfpKoM0QCKvcLCkBao,Eastside (with Halsey & Khalid),benny blanco,75,1018054,"['dance pop', 'edm', 'electropop', 'pop', 'pop rap']",74,Eastside (with Halsey & Khalid),2018,0.56,0.319,0.68,89.391,-7.648,0.321,0.0,0.116,0.555,6
+48zFZh27QU5qsrBjn4C2FA,Vaina Loca,Ozuna,90,34845646,"['puerto rican pop', 'reggaeton', 'trap latino', 'urbano latino']",74,Aura,2018,0.754,0.555,0.805,93.982,-4.249,0.0752,0.0,0.203,0.315,6
+7uzmGiiJyRfuViKKK3lVmR,Mine,Bazzi,73,5264629,"['dance pop', 'electropop', 'pop']",74,COSMIC,2018,0.71,0.717,0.789,142.929,-3.874,0.0722,2.77e-06,0.451,0.0161,4
+2QZ7WLBE8h2y1Y5Fb8RYbH,In My Blood,Shawn Mendes,85,40290057,"['canadian pop', 'dance pop', 'pop', 'viral pop']",74,Shawn Mendes,2018,0.622,0.487,0.712,140.025,-7.321,0.066,0.0,0.13,0.0573,5
+45Egmo7icyopuzJN0oMEdk,Love Lies (with Normani),Khalid,86,15703950,"['pop', 'pop r&b']",73,Love Lies (with Normani),2018,0.708,0.338,0.648,143.955,-5.626,0.0449,0.0,0.134,0.0956,6
+5YUyW9opqNsMSEzzecZih1,X,Nicky Jam,82,18275844,"['latin hip hop', 'reggaeton', 'urbano latino']",73,Intimo,2018,0.594,0.694,0.749,179.968,-5.298,0.056,0.00106,0.3,0.0338,9
+63SevszngYpZOwf63o61K4,Nevermind,Dennis Lloyd,66,622572,['israeli pop'],73,Nevermind,2018,0.6,0.0793,0.688,99.977,-8.339,0.201,1.29e-05,0.409,0.159,5
+77UjLW8j5UAGAGVGhR5oUK,Pray For Me (with Kendrick Lamar),The Weeknd,96,55208147,"['canadian contemporary r&b', 'canadian pop', 'pop']",73,Black Panther The Album Music From And Inspired By,2018,0.735,0.188,0.677,100.584,-4.979,0.093,2.17e-05,0.111,0.0762,2
+7iDa6hUg2VgEL1o1HjmfBn,Meant to Be (feat. Florida Georgia Line),Bebe Rexha,84,7821755,"['dance pop', 'edm', 'pop', 'post-teen pop']",73,All Your Fault: Pt. 2,2018,0.643,0.579,0.783,154.084,-6.458,0.0856,0.0,0.083,0.047,10
+4qKcDkK6siZ7Jp1Jb4m0aL,Look Alive (feat. Drake),BlocBoy JB,61,1382919,"['memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap', 'vapor trap', 'viral rap']",73,Look Alive (feat. Drake),2018,0.922,0.595,0.581,140.022,-7.495,0.27,5.86e-05,0.105,0.00104,10
+6I0KEvFfWszVJiCy5hum4V,Let's Fall in Love for the Night,FINNEAS,70,1780769,"['alt z', 'electropop', 'la indie', 'pop']",73,Blood Harmony,2018,0.737,0.374,0.408,127.918,-7.941,0.104,0.0,0.171,0.802,5
+3Vo4wInECJQuz9BIBMOu8i,Finesse - Remix; feat. Cardi B,Bruno Mars,89,45203145,"['dance pop', 'pop']",73,Finesse (Remix) [feat. Cardi B],2018,0.704,0.926,0.859,105.115,-4.877,0.0996,0.0,0.0215,0.0185,5
+6CTWathupIiDs7U4InHnDA,Trip,Ella Mai,71,4732433,"['dance pop', 'pop', 'r&b', 'rap', 'uk contemporary r&b', 'urban contemporary']",73,Ella Mai,2018,0.477,0.358,0.61,79.882,-5.628,0.144,0.0,0.107,0.225,11
+630sXRhIcfwr2e4RdNtjKN,Rewrite The Stars,Zac Efron,68,760686,"['hollywood', 'post-teen pop', 'show tunes']",72,Rewrite The Stars,2018,0.684,0.284,0.619,125.046,-7.005,0.0386,0.0,0.122,0.0716,10
+1cS0TgbR263ey9jn0MwD2s,River (feat. Ed Sheeran),Eminem,92,63637804,"['detroit hip hop', 'hip hop', 'rap']",72,Revival,2018,0.748,0.659,0.749,90.09,-5.916,0.516,0.0,0.0713,0.142,8
+7y9iMe8SOB6z3NoHE2OfXl,Bad At Love,Halsey,83,19082078,"['dance pop', 'electropop', 'etherpop', 'indie poptimism', 'pop']",72,hopeless fountain kingdom (Deluxe),2018,0.675,0.612,0.751,118.384,-3.539,0.0296,0.0,0.0893,0.0604,0
+4eWQlBRaTjPPUlzacqEeoQ,Never Be the Same,Camila Cabello,83,28909127,"['dance pop', 'pop', 'post-teen pop']",72,Camila,2018,0.637,0.243,0.713,129.923,-4.333,0.0747,0.000637,0.137,0.181,0
+0OI7AFifLSoGzpb8bdBLLV,"Home (with Machine Gun Kelly, X Ambassadors & Bebe Rexha)",Machine Gun Kelly,81,4917721,"['ohio hip hop', 'pop rap']",72,"Home (with Machine Gun Kelly, X Ambassadors & Bebe Rexha) [From Bright: The Album]",2018,0.653,0.216,0.718,82.034,-5.232,0.213,0.0,0.0537,0.00413,3
+6VrCmhRBFnuGKmtNfk4jDs,Spotlight,Marshmello,83,34652549,"['brostep', 'dance pop', 'edm', 'pop', 'pop dance', 'progressive electro house']",72,Spotlight,2018,0.546,0.615,0.822,150.06,-4.483,0.151,0.0,0.742,0.0145,7
+6wmAHw1szh5RCKSRjiXhPe,How Long,Charlie Puth,84,18814377,"['dance pop', 'pop', 'viral pop']",72,Voicenotes,2018,0.845,0.811,0.561,109.974,-5.253,0.0778,3.49e-06,0.0383,0.211,1
+4wFjTWCunQFKtukqrNijEt,MotorSport,Migos,78,12824885,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",72,Culture II,2018,0.904,0.188,0.518,137.996,-5.32,0.183,0.0,0.325,0.0305,2
+4NBTZtAt1F13VvlSKe6KTl,This Feeling,The Chainsmokers,81,19774837,"['dance pop', 'edm', 'electropop', 'pop', 'pop dance', 'tropical house']",71,Sick Boy,2018,0.575,0.449,0.571,105.049,-7.906,0.0439,0.0,0.0912,0.0558,1
+4ggiDYAkJ7Yk8d5xOr7Xjo,Me Niego (feat. Ozuna & Wisin),Reik,80,7869105,"['latin arena pop', 'latin pop', 'mexican pop']",71,Ahora,2018,0.777,0.773,0.782,94.023,-4.435,0.0907,0.0,0.64,0.0505,0
+5IaHrVsrferBYDm0bDyABy,Taste (feat. Offset),Tyga,81,6719732,"['dance pop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",71,Taste (feat. Offset),2018,0.884,0.342,0.559,97.994,-7.442,0.12,0.0,0.101,0.0236,0
+6KBYefIoo7KydImq1uUQlL,Bodak Yellow,Cardi B,82,20869665,"['dance pop', 'pop', 'rap']",71,Invasion of Privacy,2018,0.926,0.485,0.703,125.022,-6.337,0.103,0.0,0.231,0.0659,11
+5CLGzJsGqhCEECcpnFQA8x,"These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",Rudimental,68,1345841,"['dance pop', 'edm', 'house', 'pop', 'pop dance', 'tropical house', 'uk dance', 'uk funky']",71,"These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",2018,0.653,0.55,0.809,92.213,-4.057,0.0474,0.0,0.165,0.194,0
+4ylWMuGbMXNDgDd8lErEle,The Greatest Show,Hugh Jackman,67,571761,"['hollywood', 'show tunes']",71,The Greatest Showman (Original Motion Picture Soundtrack),2018,0.417,0.4,0.824,157.92,-7.36,0.105,0.0545,0.0725,0.000239,11
+4L9Ds4mpD3SuYoWwFUlv16,Simple,Florida Georgia Line,75,5033815,"['contemporary country', 'country', 'country pop', 'country road', 'modern country rock']",70,Can't Say I Ain't Country,2018,0.362,0.864,0.882,199.811,-3.717,0.0973,0.0,0.15,0.0791,3
+6lOWoTqVnAWXchddtTH31W,Leave a Light On,Tom Walker,69,1009612,"['indie anthem-folk', 'pop', 'uk pop']",70,Leave a Light On,2018,0.586,0.267,0.624,68.976,-5.946,0.113,1.78e-06,0.133,0.0153,5
+6EGAfJaLUFzhS4zRBIEQ2J,You Make It Easy,Jason Aldean,74,5752095,"['contemporary country', 'country', 'country road']",70,Rearview Town,2018,0.375,0.406,0.574,132.025,-5.305,0.0315,0.0,0.11,0.143,7
+6KuqAtoeVzxAYOaMveLNpH,Dura,Daddy Yankee,88,30737963,"['latin hip hop', 'reggaeton', 'urbano latino']",70,Dura,2018,0.783,0.839,0.84,95.001,-3.416,0.051,0.0,0.412,0.174,1
+5ZSl6gDoV6bPPxzmLeneV9,Rise,Jonas Blue,74,3696837,"['dance pop', 'edm', 'pop', 'pop dance', 'tropical house', 'uk dance']",70,Blue,2018,0.687,0.655,0.785,106.046,-4.65,0.0333,0.0,0.203,0.327,1
+4kWO6O1BUXcZmaxitpVUwp,Jackie Chan,Tiësto,84,6643294,"['big room', 'brostep', 'dance pop', 'dutch edm', 'edm', 'house', 'pop dance', 'slap house', 'trance', 'tropical house']",70,Jackie Chan,2018,0.747,0.687,0.834,128.005,-2.867,0.045,0.0,0.0586,0.374,3
+1ZAyjvIk9YiD76yYy0TEG6,Plug Walk,Rich The Kid,68,2942350,"['atl hip hop', 'hip hop', 'melodic rap', 'plugg', 'pop rap', 'rap', 'southern hip hop', 'trap', 'vapor trap', 'viral rap']",70,The World Is Yours,2018,0.876,0.158,0.519,94.981,-6.531,0.143,0.0,0.108,0.202,11
+0CZ8lquoTX2Dkg7Ak2inwA,1950,King Princess,61,1643397,"['alt z', 'art pop', 'electropop', 'indie pop', 'indie poptimism', 'nyc pop', 'pop']",70,1950,2018,0.6,0.269,0.535,71.912,-7.043,0.107,4.7e-06,0.162,0.648,4
+42fw0rxRO2xbesF6mJfd4Y,Tequila,Dan + Shay,75,2817046,"['contemporary country', 'country', 'country road', 'pop']",70,Dan + Shay,2018,0.489,0.494,0.581,86.016,-5.731,0.0281,0.0,0.132,0.0312,11
+1M6SuEJZJkZf2S419vIPkB,FEFE,6ix9ine,72,6744258,"['emo rap', 'rap', 'trap']",69,DUMMY BOY,2018,0.931,0.375,0.387,125.978,-9.127,0.412,0.0,0.136,0.088,1
+51rXHuKN8Loc4sUlKPODgH,"King's Dead (with Kendrick Lamar, Future & James Blake)",Jay Rock,72,1335668,"['conscious hip hop', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap', 'underground hip hop']",69,"King's Dead (with Kendrick Lamar, Future & James Blake)",2018,0.645,0.376,0.705,137.133,-5.008,0.299,0.0,0.128,0.000813,1
+6kPJZM97LwdG9QIsT7khp6,Solo (feat. Demi Lovato),Clean Bandit,75,5022703,"['dance pop', 'edm', 'pop', 'pop dance', 'post-teen pop', 'tropical house', 'uk dance', 'uk funky']",69,Solo (feat. Demi Lovato),2018,0.737,0.565,0.636,105.005,-4.546,0.0437,6.66e-05,0.35,0.0441,11
+0b9oOr2ZgvyQu88wzixux9,This Is America,Childish Gambino,80,10194145,"['atl hip hop', 'hip hop', 'rap']",69,This Is America,2018,0.854,0.549,0.463,120.024,-6.159,0.137,0.0,0.354,0.117,5
+10Igtw8bSDyyFs7KIsKngZ,Freaky Friday (feat. Chris Brown),Lil Dicky,62,1918427,"['comedy rap', 'pop rap', 'rap']",69,Freaky Friday (feat. Chris Brown),2018,0.755,0.755,0.599,133.123,-5.042,0.224,0.0,0.109,0.147,8
+514rhnksEwHUh6LxXsQ4Y9,Back To You,Selena Gomez,85,39199832,"['dance pop', 'pop', 'post-teen pop']",69,13 Reasons Why (Season 2),2018,0.6,0.494,0.683,102.036,-6.271,0.0493,1.26e-06,0.11,0.0984,6
+1LhMopPAallLeaeNutqbgS,Say Something (feat. Chris Stapleton),Justin Timberlake,80,12468475,"['dance pop', 'pop']",68,Man of the Woods,2018,0.707,0.372,0.632,97.04,-7.031,0.0789,1.09e-05,0.0841,0.103,10
+0Ult84lvFuqNvbyXwyRQ58,I Miss You (feat. Julia Michaels),Clean Bandit,75,5022703,"['dance pop', 'edm', 'pop', 'pop dance', 'post-teen pop', 'tropical house', 'uk dance', 'uk funky']",68,What Is Love? (Deluxe Edition),2018,0.693,0.369,0.624,105.002,-7.482,0.0448,7.64e-06,0.0955,0.299,0
+5cepAtqnEQ6yVG6088zMMu,Corazón (feat. Nego do Borel),Maluma,85,32907456,"['reggaeton', 'reggaeton colombiano', 'urbano latino']",68,F.A.M.E.,2018,0.722,0.748,0.738,198.075,-6.073,0.247,1.47e-05,0.198,0.328,9
+2RiBogNRfulkNf7fVbPOrJ,Saturday Sun,Vance Joy,76,2731201,"['folk-pop', 'pop']",68,Nation of Two,2018,0.637,0.706,0.864,99.995,-4.381,0.0468,0.0,0.222,0.484,8
+2Yl4OmDby9iitgNWZPwxkd,Be Careful,Cardi B,82,20869665,"['dance pop', 'pop', 'rap']",67,Invasion of Privacy,2018,0.82,0.535,0.568,152.279,-8.23,0.411,0.0,0.0952,0.0256,6
+58kZ9spgxmlEznXGu6FPdQ,Sick Boy,The Chainsmokers,81,19774837,"['dance pop', 'edm', 'electropop', 'pop', 'pop dance', 'tropical house']",67,Sick Boy,2018,0.663,0.454,0.577,89.996,-7.518,0.0531,0.0,0.12,0.109,11
+2ijef6ni2amuunRoKTlgww,Sin Pijama,Becky G,80,12862340,"['dance pop', 'latin pop', 'latin viral pop', 'pop', 'rap latina', 'reggaeton']",67,Sin Pijama,2018,0.791,0.82,0.745,94.014,-3.695,0.0464,2.93e-05,0.104,0.354,11
+1lsBTdE6MGsKeZCD6llNu7,Done for Me (feat. Kehlani),Charlie Puth,84,18814377,"['dance pop', 'pop', 'viral pop']",67,Voicenotes,2018,0.856,0.697,0.632,112.009,-3.692,0.074,0.0,0.0688,0.193,6
+55S2PQgSMYAhgoTCcGCDfw,Youngblood,5 Seconds of Summer,79,9065174,"['boy band', 'dance pop', 'pop', 'post-teen pop']",67,Youngblood,2018,0.596,0.152,0.854,120.274,-5.114,0.463,0.0,0.124,0.0169,7
+0At2qAoaVjIwWNAqrscXli,Boo'd Up,Ella Mai,71,4732433,"['dance pop', 'pop', 'r&b', 'rap', 'uk contemporary r&b', 'urban contemporary']",67,READY,2018,0.561,0.235,0.779,81.965,-5.107,0.0531,0.0,0.078,0.0862,10
+2YpeDb67231RjR0MgVLzsG,Old Town Road - Remix,Lil Nas X,83,12179866,"['lgbtq+ hip hop', 'pop']",77,7 EP,2019,0.878,0.639,0.619,136.041,-5.56,0.102,0.0,0.113,0.0533,6
+2Fxmhks0bxGSBdJ92vM42m,bad guy,Billie Eilish,89,73989789,"['art pop', 'electropop', 'pop']",82,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2019,0.701,0.562,0.425,135.128,-10.965,0.375,0.13,0.1,0.328,7
+6v3KW9xbzN5yKLt9YKDYA2,Señorita,Shawn Mendes,85,40290057,"['canadian pop', 'dance pop', 'pop', 'viral pop']",80,Shawn Mendes (Deluxe),2019,0.759,0.749,0.548,116.967,-6.049,0.029,0.0,0.0828,0.0392,9
+6ocbgoVGwYJhOv1GgI9NsF,7 rings,Ariana Grande,92,86223116,"['dance pop', 'pop']",84,"thank u, next",2019,0.778,0.327,0.317,140.048,-10.732,0.334,0.0,0.0881,0.592,1
+0RiRZpuVRbi7oqRdSMwhQY,Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,89,39233698,"['dfw rap', 'melodic rap', 'rap']",80,Hollywood's Bleeding,2019,0.755,0.925,0.522,89.96,-4.368,0.0575,0.0,0.0685,0.533,2
+7qEHsqek33rTcFNT9PFqLf,Someone You Loved,Lewis Capaldi,82,10273437,"['pop', 'uk pop']",86,Divinely Uninspired To A Hellish Extent,2019,0.501,0.446,0.405,109.891,-5.679,0.0319,0.0,0.105,0.751,1
+5p7ujcrUXASCNwRaWNHR1C,Without Me,Halsey,83,19082078,"['dance pop', 'electropop', 'etherpop', 'indie poptimism', 'pop']",76,Without Me,2019,0.752,0.533,0.488,136.041,-7.05,0.0705,9.11e-06,0.0936,0.297,6
+2qxmye6gAegTMjLKEBoR3d,Let Me Down Slowly,Alec Benjamin,78,4032020,"['alt z', 'electropop', 'pop']",84,Narrated For You,2019,0.652,0.483,0.557,150.073,-5.714,0.0318,0.0,0.124,0.74,1
+2VxeLyX666F8uXCJ0dZF8B,Shallow,Lady Gaga,87,24354857,"['art pop', 'dance pop', 'pop']",83,A Star Is Born Soundtrack,2019,0.572,0.323,0.385,95.799,-6.362,0.0308,0.0,0.231,0.371,7
+2vXKRlJBXyOcvZYTdNeckS,Lost in the Fire (feat. The Weeknd),Gesaffelstein,77,467080,"['dark clubbing', 'destroy techno']",84,Hyperion,2019,0.658,0.166,0.671,100.966,-12.21,0.0363,0.000927,0.115,0.0933,2
+0u2P5u6lvoDfwTYjAADbn4,lovely (with Khalid),Billie Eilish,89,73989789,"['art pop', 'electropop', 'pop']",88,lovely (with Khalid),2019,0.351,0.12,0.296,115.284,-10.109,0.0333,0.0,0.095,0.934,4
+21jGcNKet2qwijlDFuPiPb,Circles,Post Malone,89,39233698,"['dfw rap', 'melodic rap', 'rap']",85,Hollywood's Bleeding,2019,0.695,0.553,0.762,120.042,-3.497,0.0395,0.00244,0.0863,0.192,0
+1dGr1c8CrMLDpV6mPbImSI,Lover,Taylor Swift,99,64803537,['pop'],83,Lover,2019,0.359,0.453,0.543,68.534,-7.582,0.0919,1.58e-05,0.118,0.492,7
+0Oqc0kKFsQ6MhFOLBNZIGX,Doin' Time,Lana Del Rey,90,19736313,"['art pop', 'pop']",82,Norman Fucking Rockwell!,2019,0.641,0.523,0.559,144.982,-11.132,0.0355,0.00402,0.0937,0.404,7
+3e9HZxeyfWwjeyPAMmWSSQ,"thank u, next",Ariana Grande,92,86223116,"['dance pop', 'pop']",81,"thank u, next",2019,0.717,0.412,0.653,106.966,-5.634,0.0658,0.0,0.101,0.229,1
+2xLMifQCjDGFmkHkpNLD9h,SICKO MODE,Travis Scott,91,21604073,"['rap', 'slap house']",81,ASTROWORLD,2019,0.834,0.446,0.73,155.008,-3.714,0.222,0.0,0.124,0.00513,8
+6iaSML1PIYq936g62BDtBq,Robbery,Juice WRLD,91,27045858,"['chicago rap', 'melodic rap']",81,Death Race For Love (Bonus Track Version),2019,0.623,0.566,0.692,79.899,-5.122,0.0504,0.0,0.153,0.328,2
+2JvzF1RMd7lE3KmFlsyZD8,MIDDLE CHILD,J. Cole,86,18721167,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",80,MIDDLE CHILD,2019,0.837,0.463,0.364,123.984,-11.713,0.276,0.0,0.271,0.149,8
+7xQAfvXzm3AkraOtGPWIZg,Wow.,Post Malone,89,39233698,"['dfw rap', 'melodic rap', 'rap']",80,Hollywood's Bleeding,2019,0.829,0.388,0.539,99.96,-7.359,0.208,1.78e-06,0.103,0.136,11
+43zdsphuZLzwA9k4DJhU0I,when the party's over,Billie Eilish,89,73989789,"['art pop', 'electropop', 'pop']",83,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2019,0.367,0.198,0.111,82.642,-14.084,0.0972,3.97e-05,0.0897,0.978,4
+2t8yVaLvJ0RenpXUIAC52d,a lot,21 Savage,94,12380909,"['atl hip hop', 'rap']",80,i am > i was,2019,0.837,0.274,0.636,145.972,-7.643,0.086,0.00125,0.342,0.0395,1
+4l0Mvzj72xxOpRrp6h8nHi,Lose You To Love Me,Selena Gomez,85,39199832,"['dance pop', 'pop', 'post-teen pop']",80,Rare,2019,0.488,0.0978,0.343,102.819,-8.985,0.0436,0.0,0.21,0.556,4
+1BxfuPKGuaTgP7aM0Bbdwr,Cruel Summer,Taylor Swift,99,64803537,['pop'],83,Lover,2019,0.552,0.564,0.702,169.994,-5.707,0.157,2.06e-05,0.105,0.117,9
+1rqqCSm0Qe4I9rUvWncaom,High Hopes,Panic! At The Disco,79,11594948,['modern rock'],80,Pray for the Wicked,2019,0.579,0.681,0.904,82.014,-2.729,0.0618,0.0,0.064,0.193,5
+5hVghJ4KaYES3BFUATCYn0,EARFQUAKE,"Tyler, The Creator",85,10161526,"['hip hop', 'rap']",80,IGOR,2019,0.554,0.413,0.498,79.635,-8.866,0.0685,5.98e-06,0.795,0.23,9
+7dt6x5M1jzdTEt8oCbisTK,Better Now,Post Malone,89,39233698,"['dfw rap', 'melodic rap', 'rap']",80,beerbongs & bentleys,2019,0.68,0.341,0.578,145.038,-5.804,0.04,0.0,0.135,0.331,10
+1lOe9qE0vR9zwWQAOk6CoO,Ransom,Lil Tecca,78,5654915,"['melodic rap', 'pluggnb', 'rap', 'trap', 'viral rap']",80,We Love You Tecca,2019,0.745,0.226,0.642,179.974,-6.257,0.287,0.0,0.0658,0.0204,7
+22vgEDb5hykfaTwLuskFGD,Sucker,Jonas Brothers,79,6678238,"['boy band', 'dance pop', 'pop', 'post-teen pop']",79,Happiness Begins,2019,0.842,0.952,0.734,137.958,-5.065,0.0588,0.0,0.106,0.0427,1
+7DnAm9FOTWE3cUvso43HhI,Sweet but Psycho,Ava Max,82,5738937,"['dance pop', 'pop']",79,Heaven & Hell,2019,0.72,0.62,0.706,133.002,-4.719,0.0473,0.0,0.166,0.0684,1
+4Of7rzpRpV1mWRbhp5rAqG,Bruises,Lewis Capaldi,82,10273437,"['pop', 'uk pop']",79,Divinely Uninspired To A Hellish Extent,2019,0.736,0.361,0.308,111.202,-7.83,0.0677,0.0,0.186,0.946,4
+0Ryd8975WihbObpp5cPW1t,boyfriend (with Social House),Ariana Grande,92,86223116,"['dance pop', 'pop']",79,boyfriend,2019,0.4,0.702,0.795,190.097,-3.731,0.461,0.0,0.159,0.119,10
+4a9tbd947vo9K8Vti9JwcI,Boy With Luv (feat. Halsey),BTS,92,59250185,"['k-pop', 'k-pop boy group']",79,MAP OF THE SOUL : PERSONA,2019,0.645,0.803,0.862,119.947,-4.761,0.0845,0.0,0.193,0.0933,11
+2tnVG71enUj33Ic2nFN6kZ,Ride It,Regard,71,202792,"['dance pop', 'edm', 'electro house', 'pop', 'pop dance', 'pop edm', 'slap house', 'tropical house']",79,Ride It,2019,0.88,0.884,0.751,117.948,-4.258,0.0874,6.43e-05,0.106,0.177,7
+2TH65lNHgvLxCKXM3apjxI,Callaita,Bad Bunny,100,61605591,"['reggaeton', 'trap latino', 'urbano latino']",79,Callaita,2019,0.61,0.244,0.624,176.169,-4.773,0.309,2.12e-06,0.243,0.6,2
+0t3ZvGKlmYmVsDzBJAXK8C,Goodbyes (feat. Young Thug),Post Malone,89,39233698,"['dfw rap', 'melodic rap', 'rap']",79,Hollywood's Bleeding,2019,0.548,0.163,0.653,150.068,-3.875,0.081,0.0,0.103,0.456,5
+2IRZnDFmlqMuOrYOLnZZyc,Going Bad (feat. Drake),Meek Mill,76,6784972,"['hip hop', 'philly rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",78,Championships,2019,0.889,0.544,0.496,86.003,-6.365,0.0905,0.0,0.252,0.259,4
+5w9c2J52mkdntKOmRLeM2m,Con Calma,Daddy Yankee,88,30737963,"['latin hip hop', 'reggaeton', 'urbano latino']",78,Con Calma,2019,0.737,0.656,0.86,93.989,-2.652,0.0593,1.94e-06,0.0574,0.11,8
+3z4CGd63tpUn9a6oQSG0CI,Location (feat. Burna Boy),Dave,76,2754647,['uk hip hop'],77,PSYCHODRAMA,2019,0.812,0.55,0.496,109.979,-5.969,0.297,0.0,0.0955,0.271,9
+6WrI0LAC5M1Rw2MnX2ZvEg,Don't Start Now,Dua Lipa,88,37860792,"['dance pop', 'pop', 'uk pop']",77,Don't Start Now,2019,0.794,0.677,0.793,123.941,-4.521,0.0842,0.0,0.0952,0.0125,11
+60iSKGrGazRzICtMjADNSM,Hold Me While You Wait,Lewis Capaldi,82,10273437,"['pop', 'uk pop']",77,Divinely Uninspired To A Hellish Extent,2019,0.688,0.162,0.53,106.958,-5.507,0.0333,0.0,0.0995,0.443,11
+6zeeWid2sgw4lap2jV61PZ,Better,Khalid,86,15703950,"['pop', 'pop r&b']",77,Suncity,2019,0.596,0.112,0.552,97.949,-10.278,0.097,0.334,0.104,0.0765,0
+2XU0oxnq2qxCpomAAuJY8K,Dance Monkey,Tones And I,71,2987874,"['australian pop', 'pop']",77,Dance Monkey (Stripped Back) / Dance Monkey,2019,0.824,0.513,0.588,98.027,-6.4,0.0924,0.000104,0.149,0.692,6
+4kV4N9D1iKVxx1KLvtTpjS,"break up with your girlfriend, i'm bored",Ariana Grande,92,86223116,"['dance pop', 'pop']",77,"thank u, next",2019,0.726,0.335,0.554,169.999,-5.29,0.0917,0.0,0.106,0.0421,5
+116H0KvKr2Zl4RPuVBruDO,MIA (feat. Drake),Bad Bunny,100,61605591,"['reggaeton', 'trap latino', 'urbano latino']",78,MIA (feat. Drake),2019,0.817,0.158,0.539,97.062,-6.349,0.0621,0.000496,0.099,0.0141,6
+6uFn47ACjqYkc0jADwEdj1,Pop Out (feat. Lil Tjay),Polo G,84,8842310,['chicago rap'],77,Die A Legend,2019,0.772,0.261,0.639,168.112,-7.119,0.467,0.0,0.0698,0.15,1
+27rdGxbavYJeBphck5MZAF,Nothing Breaks Like a Heart (feat. Miley Cyrus),Mark Ronson,75,986636,"['dance pop', 'pop']",76,Nothing Breaks Like a Heart (feat. Miley Cyrus),2019,0.601,0.244,0.794,114.066,-5.844,0.0671,1.36e-06,0.388,0.00987,7
+5ry2OE6R2zPQFDO85XkgRb,Money In The Grave (Drake ft. Rick Ross),Drake,97,70260570,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",76,The Best In The World Pack,2019,0.831,0.101,0.502,100.541,-4.045,0.046,0.0,0.122,0.101,10
+0F7FA14euOIX8KcbEturGH,Old Town Road,Lil Nas X,83,12179866,"['lgbtq+ hip hop', 'pop']",76,7 EP,2019,0.907,0.507,0.53,135.998,-6.112,0.127,2.23e-06,0.101,0.0578,1
+0FZ4Dmg8jJJAPJnvBIzD9z,ZEZE (feat. Travis Scott & Offset),Kodak Black,82,8813605,"['florida drill', 'florida rap', 'hip hop', 'melodic rap', 'miami hip hop', 'rap', 'trap', 'trap latino']",76,Dying to Live,2019,0.861,0.504,0.603,98.043,-5.788,0.176,0.0,0.0924,0.0521,8
+2wrJq5XKLnmhRXHIAf9xBa,"10,000 Hours (with Justin Bieber)",Dan + Shay,75,2817046,"['contemporary country', 'country', 'country road', 'pop']",76,"10,000 Hours (with Justin Bieber)",2019,0.654,0.43,0.63,89.991,-4.644,0.0259,0.0,0.111,0.153,10
+3j84U36KvLeXNDPv4t5pI8,Pure Water (with Migos),Mustard,74,1020303,"['cali rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",76,Perfect Ten,2019,0.682,0.137,0.559,202.015,-5.545,0.127,0.0,0.344,0.174,0
+6RRNNciQGZEXnqk8SQ9yv5,You Need To Calm Down,Taylor Swift,99,64803537,['pop'],75,Lover,2019,0.771,0.714,0.671,85.026,-5.617,0.0553,0.0,0.0637,0.00929,2
+5WHTFyqSii0lmT9R21abT8,Don't Call Me Up,Mabel,70,1727639,"['dance pop', 'edm', 'pop', 'pop dance', 'post-teen pop', 'tropical house', 'uk pop']",75,Ivy To Roses (Mixtape),2019,0.674,0.234,0.881,98.994,-2.853,0.147,3.01e-06,0.0793,0.296,9
+1DFD5Fotzgn6yYXkYsKiGs,Piece Of Your Heart,MEDUZA,77,582879,"['dance pop', 'edm', 'electro house', 'pop dance', 'pop house', 'tropical house']",75,Piece Of Your Heart,2019,0.677,0.631,0.744,124.08,-6.806,0.0295,0.00016,0.074,0.0404,10
+6Qs4SXO9dwPj5GKvVOv8Ki,Dancing With A Stranger (with Normani),Sam Smith,89,21167020,"['pop', 'uk pop']",75,Dancing With A Stranger (with Normani),2019,0.741,0.347,0.52,102.998,-7.513,0.0656,1.97e-06,0.222,0.45,8
+4SSnFejRGlZikf02HLewEF,bury a friend,Billie Eilish,89,73989789,"['art pop', 'electropop', 'pop']",74,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2019,0.905,0.196,0.389,120.046,-14.505,0.332,0.162,0.106,0.74,8
+6ZRuF2n1CQxyxxAAWsKJOy,Nights Like This (feat. Ty Dolla $ign),Kehlani,76,6423290,"['dance pop', 'pop', 'r&b', 'rap']",74,While We Wait,2019,0.61,0.291,0.725,146.163,-5.131,0.15,0.0,0.154,0.367,8
+2ksOAxtIxY8yElEWw8RhgK,China,Anuel AA,89,25748817,"['reggaeton', 'reggaeton flow', 'trap boricua', 'trap latino', 'urbano latino']",74,China,2019,0.786,0.609,0.808,105.027,-3.702,0.0882,0.000289,0.0822,0.0846,7
+6hvczQ05jc1yGlp9zhb95V,Kill This Love,BLACKPINK,86,35705698,"['k-pop', 'k-pop girl group']",74,KILL THIS LOVE,2019,0.763,0.645,0.835,131.875,-5.234,0.191,0.00221,0.225,0.323,2
+6oJ6le65B3SEqPwMRNXWjY,Higher Love,Kygo,80,8237744,"['edm', 'pop', 'pop dance', 'tropical house']",74,Higher Love,2019,0.693,0.404,0.678,103.952,-7.159,0.0324,5.71e-06,0.101,0.0151,8
+1tNJrcVe6gwLEiZCtprs1u,3 Nights,Dominic Fike,73,998506,"['alternative pop rock', 'pop']",74,"Don't Forget About Me, Demos",2019,0.815,0.877,0.518,151.891,-6.594,0.0897,0.0,0.104,0.223,7
+3HWzoMvoF3TQfYg4UPszDq,Truth Hurts,Lizzo,79,5274662,"['dance pop', 'escape room', 'minnesota hip hop', 'pop', 'trap queen']",74,Cuz I Love You (Super Deluxe),2019,0.715,0.412,0.624,158.087,-3.046,0.114,0.0,0.123,0.11,4
+3Ol2xnObFdKV9pmRD2t9x8,Look Back at It,A Boogie Wit da Hoodie,84,6998375,"['melodic rap', 'rap', 'trap']",74,Hoodie SZN,2019,0.791,0.536,0.587,96.057,-5.075,0.0413,0.0,0.148,0.407,3
+0PG9fbaaHFHfre2gUVo7AN,Please Me,Cardi B,82,20869665,"['dance pop', 'pop', 'rap']",73,Please Me,2019,0.747,0.65,0.57,133.992,-6.711,0.081,0.0,0.0832,0.0642,1
+4t9a07PAghtQMRAIP9FQ7Z,Soltera - Remix,Lunay,73,7702815,"['latin hip hop', 'latin pop', 'reggaeton', 'reggaeton flow', 'trap latino', 'urbano latino']",73,Épico,2019,0.795,0.799,0.783,92.01,-4.271,0.0432,0.0,0.437,0.361,5
+6b2RcmUt1g9N9mQ3CbjX2Y,How Do You Sleep?,Sam Smith,89,21167020,"['pop', 'uk pop']",73,How Do You Sleep?,2019,0.477,0.345,0.682,110.567,-4.931,0.0925,0.0,0.0763,0.153,1
+5icOoE6VgqFKohjWWNp0Ac,Here With Me,Marshmello,83,34652549,"['brostep', 'dance pop', 'edm', 'pop', 'pop dance', 'progressive electro house']",73,Here With Me,2019,0.791,0.181,0.565,99.961,-3.933,0.0439,0.0,0.156,0.0623,5
+5W83ErFkO3aKAIS1WMi6u0,Secreto,Anuel AA,89,25748817,"['reggaeton', 'reggaeton flow', 'trap boricua', 'trap latino', 'urbano latino']",73,Secreto,2019,0.807,0.706,0.803,91.987,-4.156,0.126,0.00853,0.136,0.602,11
+7LpMG3AEaIJgs62HQhAa91,i'm so tired...,Lauv,77,5477186,['pop'],73,~how i'm feeling~,2019,0.548,0.498,0.735,101.252,-7.572,0.236,0.0,0.195,0.173,11
+5iwz1NiezX7WWjnCgY5TH4,Calma - Remix,Pedro Capó,69,1548892,"['latin pop', 'puerto rican pop']",73,Calma (Remix),2019,0.826,0.761,0.773,126.899,-4.218,0.0524,0.0,0.143,0.323,11
+6KgBpzTuTRPebChN0VTyzV,Good as Hell,Lizzo,79,5274662,"['dance pop', 'escape room', 'minnesota hip hop', 'pop', 'trap queen']",73,Cuz I Love You (Super Deluxe),2019,0.682,0.535,0.919,95.982,-3.18,0.0875,0.0,0.442,0.256,0
+0KoiMHhqKLoL4xM54rcWYY,"Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",DJ Snake,78,8276215,"['dance pop', 'edm', 'electronic trap', 'pop', 'pop dance', 'pop rap']",73,Carte Blanche,2019,0.842,0.617,0.801,95.881,-4.167,0.228,4.82e-06,0.0642,0.157,8
+1wJRveJZLSb1rjhnUHQiv6,Swervin (feat. 6ix9ine),A Boogie Wit da Hoodie,84,6998375,"['melodic rap', 'rap', 'trap']",73,Hoodie SZN,2019,0.581,0.434,0.662,93.023,-5.239,0.303,0.0,0.111,0.0153,9
+0hVXuCcriWRGvwMV1r5Yn9,I Don't Care (with Justin Bieber),Ed Sheeran,91,106848986,"['pop', 'uk pop']",72,No.6 Collaborations Project,2019,0.798,0.843,0.676,101.956,-5.041,0.0442,0.0,0.0894,0.0902,6
+5BJMeoCXXgbRAWfp6fTulr,Shotta Flow (feat. Blueface) [Remix],NLE Choppa,79,5539439,"['memphis hip hop', 'viral rap']",72,Cottonwood,2019,0.894,0.567,0.511,120.077,-4.768,0.421,0.0,0.14,0.0251,2
+4hPpVbbakQNv8YTHYaOJP4,One Thing Right,Marshmello,83,34652549,"['brostep', 'dance pop', 'edm', 'pop', 'pop dance', 'progressive electro house']",72,One Thing Right,2019,0.659,0.442,0.625,88.042,-2.253,0.045,0.0,0.582,0.0644,4
+5ls62WNKHUUrdF3r1cv83T,emotions,iann dior,76,1659092,"['melodic rap', 'pop rap']",72,nothings ever good enough,2019,0.63,0.163,0.63,80.512,-6.211,0.0395,0.0,0.142,0.0131,9
+7tFiyTwD0nx5a1eklYtX2J,Bohemian Rhapsody - Remastered 2011,Queen,86,44328284,"['classic rock', 'glam rock', 'rock']",72,A Night At The Opera (Deluxe Remastered Version),2019,0.392,0.228,0.402,143.883,-9.961,0.0536,0.0,0.243,0.288,0
+2GGMabyHXnJmjY6CXhhB2e,Money,Cardi B,82,20869665,"['dance pop', 'pop', 'rap']",71,Money,2019,0.95,0.219,0.59,130.003,-6.508,0.29,0.0,0.11,0.00534,8
+6LsAAHotRLMOHfCsSfYCsz,If I Can't Have You,Shawn Mendes,85,40290057,"['canadian pop', 'dance pop', 'pop', 'viral pop']",71,If I Can't Have You,2019,0.692,0.864,0.809,123.911,-4.198,0.0602,0.0,0.147,0.524,2
+70eFcWOvlMObDhURTqT4Fv,Beautiful People (feat. Khalid),Ed Sheeran,91,106848986,"['pop', 'uk pop']",71,No.6 Collaborations Project,2019,0.64,0.546,0.647,92.979,-8.114,0.186,0.0,0.0801,0.124,5
+2Xnv3GntqbBH1juvUYSpHG,So Am I,Ava Max,82,5738937,"['dance pop', 'pop']",71,Heaven & Hell,2019,0.681,0.628,0.657,130.089,-4.671,0.0432,0.0,0.353,0.0748,6
+1Ej96GIBCTvgH7tNX1r3qr,Otro Trago,Sech,83,11420577,"['panamanian pop', 'reggaeton', 'urbano latino']",71,Sueños,2019,0.746,0.619,0.7,176.044,-4.669,0.341,0.000159,0.11,0.136,0
+5itOtNx0WxtJmi1TQ3RuRd,Giant (with Rag'n'Bone Man),Calvin Harris,85,23066688,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'progressive house', 'uk dance']",71,Giant (with Rag'n'Bone Man),2019,0.807,0.606,0.887,122.015,-4.311,0.0361,0.000503,0.0811,0.016,1
+0pEkK8MqbmGSX7fT8WLMbR,Grace,Lewis Capaldi,82,10273437,"['pop', 'uk pop']",71,Divinely Uninspired To A Hellish Extent,2019,0.722,0.488,0.565,104.483,-5.848,0.0335,0.0,0.165,0.435,4
+2x0RZdkZcD8QRI53XT4GI5,SOS (feat. Aloe Blacc),Avicii,81,22382576,"['dance pop', 'edm', 'pop', 'pop dance', 'pop rap']",71,TIM,2019,0.802,0.376,0.645,100.001,-6.181,0.0715,0.0,0.119,0.272,5
+0DiDStADDVh3SvAsoJAFMk,Only Human,Jonas Brothers,79,6678238,"['boy band', 'dance pop', 'pop', 'post-teen pop']",71,Happiness Begins,2019,0.795,0.874,0.496,94.01,-5.883,0.0722,0.0,0.0645,0.108,0
+1000nHvUdawXuUHgBod4Wv,Panini,Lil Nas X,83,12179866,"['lgbtq+ hip hop', 'pop']",70,Panini,2019,0.703,0.475,0.594,153.848,-6.146,0.0752,0.0,0.123,0.342,5
+2gwkD6igEhQbDQegRCcdoB,Suge,DaBaby,82,10382826,"['north carolina hip hop', 'rap', 'trap']",70,Baby On Baby,2019,0.876,0.844,0.662,75.445,-6.482,0.426,0.0,0.127,0.0608,2
+132ALUzVLmqYB4UsBj5qD6,Adan y Eva,Paulo Londra,81,19846181,"['argentine hip hop', 'trap argentino', 'trap latino', 'urbano latino']",70,Homerun,2019,0.767,0.72,0.709,171.993,-4.47,0.336,0.0,0.0745,0.323,1
+6TqXcAFInzjp0bODyvrWEq,Talk (feat. Disclosure),Khalid,86,15703950,"['pop', 'pop r&b']",70,Free Spirit,2019,0.9,0.346,0.4,135.984,-8.575,0.127,0.0,0.0599,0.0516,0
+5PYQUBXc7NYeI1obMKSJK0,Never Really Over,Katy Perry,85,24229520,"['dance pop', 'pop']",69,Never Really Over,2019,0.77,0.385,0.882,99.991,-4.792,0.0602,0.0,0.316,0.194,8
+6V7g6qM8wheMivMWrzbPTM,Leave Me Alone,Flipp Dinero,61,1166406,"['melodic rap', 'pop rap', 'rap', 'trap', 'underground hip hop', 'vapor trap', 'viral rap']",69,LOVE FOR GUALA,2019,0.792,0.742,0.743,150.024,-2.806,0.0851,0.0,0.183,0.107,7
+5KBARWIxeMGkvUax9VtVC9,My Type,Saweetie,73,1715496,"['cali rap', 'dance pop', 'pop', 'rap', 'trap queen']",69,ICY,2019,0.899,0.587,0.811,105.038,-6.294,0.258,0.0,0.0672,0.000677,2
+0rIAC4PXANcKmitJfoqmVm,Motivation,Normani,70,2229632,"['dance pop', 'pop', 'post-teen pop', 'r&b', 'rap', 'urban contemporary']",68,Motivation,2019,0.599,0.881,0.887,170.918,-3.967,0.0984,1.21e-06,0.3,0.0192,4
+7AODNxFNPnKaz4hURLzw5l,Ladbroke Grove,AJ Tracey,69,1139087,"['grime', 'uk hip hop', 'ukg revival']",68,AJ Tracey,2019,0.902,0.727,0.839,133.989,-9.447,0.208,0.0,0.102,0.0933,11
+44ADyYoY5liaRa3EOAl4uf,Slide Away,Miley Cyrus,82,19061072,"['dance pop', 'pop', 'post-teen pop']",68,Slide Away,2019,0.53,0.288,0.538,148.051,-6.672,0.0335,2.83e-06,0.248,0.17,5
+59ywHNwwchG4nZJMLyxSzd,Clout (feat. Cardi B),Offset,79,2575672,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap', 'viral rap']",68,FATHER OF 4,2019,0.919,0.424,0.622,140.022,-7.384,0.0997,4.24e-06,0.122,0.228,1
+6ImEBuxsbuTowuHmg3Z2FO,Mad Love,Mabel,70,1727639,"['dance pop', 'edm', 'pop', 'pop dance', 'post-teen pop', 'tropical house', 'uk pop']",68,High Expectations,2019,0.623,0.607,0.796,197.524,-2.981,0.199,0.0,0.115,0.659,0
+2bjUEg4jBtKBlPdNrTAppI,Easier,5 Seconds of Summer,79,9065174,"['boy band', 'dance pop', 'pop', 'post-teen pop']",67,CALM,2019,0.562,0.623,0.46,176.055,-4.173,0.259,0.0,0.107,0.476,5
+0sf12qNH5qcw8qpgymFOqD,Blinding Lights,The Weeknd,96,55208147,"['canadian contemporary r&b', 'canadian pop', 'pop']",18,Blinding Lights,2020,0.513,0.345,0.796,171.017,-4.075,0.0629,0.000209,0.0938,0.00147,1
+0nbXyq5TXYPCO7pr3N8S4I,The Box,Roddy Ricch,81,8748882,"['melodic rap', 'rap', 'trap']",80,Please Excuse Me for Being Antisocial,2020,0.896,0.642,0.586,116.971,-6.687,0.0559,0.0,0.79,0.104,10
+696DnlkuDOXcMAnKlTgXXK,ROXANNE,Arizona Zervas,67,697378,"['pop', 'pop rap', 'rhode island rap', 'viral rap']",77,ROXANNE,2020,0.621,0.457,0.601,116.735,-5.616,0.148,0.0,0.46,0.0522,6
+7igeByaBM0MgGsgXtNxDJ7,positions,Ariana Grande,92,86223116,"['dance pop', 'pop']",1,positions,2020,0.736,0.675,0.802,144.005,-4.759,0.0864,0.0,0.094,0.468,0
+6UelLqGlWMcVH1E5c4H7lY,Watermelon Sugar,Harry Styles,90,25143615,['pop'],88,Fine Line,2020,0.548,0.557,0.816,95.39,-4.209,0.0465,0.0,0.335,0.122,0
+0v1x6rN6JHRapa03JElljE,Dynamite,BTS,92,59250185,"['k-pop', 'k-pop boy group']",0,Dynamite,2020,0.746,0.737,0.765,114.044,-4.41,0.0993,0.0,0.0936,0.0112,6
+24ySl2hOPGCDcxBxFIqWBu,Rain On Me (with Ariana Grande),Lady Gaga,87,24354857,"['art pop', 'dance pop', 'pop']",72,Rain On Me (with Ariana Grande),2020,0.672,0.646,0.855,123.056,-3.764,0.0397,0.0,0.323,0.021,9
+1Cv1YLb4q0RzL6pybtaMLo,Sunday Best,Surfaces,69,877497,"['bedroom soul', 'pop']",74,Where the Light Is,2020,0.878,0.694,0.525,112.022,-6.832,0.0578,0.0,0.0714,0.183,5
+7eJMfftS33KTjuF7lTsMCx,death bed (coffee for your head),Powfu,72,1130442,"['sad lo-fi', 'sad rap']",82,death bed (coffee for your head),2020,0.726,0.348,0.431,144.026,-8.765,0.135,0.0,0.696,0.731,8
+3hUxzQpSfdDqwM3ZTFQY0K,august,Taylor Swift,99,64803537,['pop'],83,folklore,2020,0.532,0.403,0.623,89.937,-9.208,0.0331,7.28e-05,0.0925,0.538,5
+1tkg4EHVoqnhR6iFEXb60y,What You Know Bout Love,Pop Smoke,84,11781110,['brooklyn drill'],80,Shoot For The Stars Aim For The Moon,2020,0.709,0.543,0.548,83.995,-8.493,0.353,1.59e-06,0.133,0.65,10
+2DQNYMRjisN3KAPj1bEwOI,"Lemonade (feat. Gunna, Don Toliver & NAV)",Internet Money,72,683353,"['pop rap', 'rap', 'trap', 'viral rap']",53,B4 The Storm,2020,0.8,0.462,0.658,140.042,-6.142,0.079,0.0,0.111,0.25,1
+2rRJrJEo19S2J82BDsQ3F7,Falling,Trevor Daniel,67,729773,"['melodic rap', 'pop', 'pop rap', 'viral rap']",1,Nicotine,2020,0.784,0.236,0.43,127.087,-8.756,0.0364,0.0,0.0887,0.123,10
+7FIWs0pqAYbP91WWM0vlTQ,Godzilla (feat. Juice WRLD),Eminem,92,63637804,"['detroit hip hop', 'hip hop', 'rap']",82,Music To Be Murdered By,2020,0.808,0.829,0.745,165.995,-5.26,0.342,0.0,0.292,0.145,10
+7ytR5pFWmSjzHJIeQkgog4,ROCKSTAR (feat. Roddy Ricch),DaBaby,82,10382826,"['north carolina hip hop', 'rap', 'trap']",78,BLAME IT ON BABY,2020,0.746,0.497,0.69,89.977,-7.956,0.164,0.0,0.101,0.247,11
+3tjFYV6RSFtuktYl3ZtYcq,Mood (feat. iann dior),24kGoldn,74,1936902,"['cali rap', 'pop', 'pop rap', 'rap']",9,Mood (feat. iann dior),2020,0.7,0.756,0.722,90.989,-3.558,0.0369,0.0,0.272,0.221,7
+4umIPjkehX1r7uhmGvXiSV,Intentions (feat. Quavo),Justin Bieber,92,68604026,"['canadian pop', 'pop']",75,Changes,2020,0.806,0.874,0.546,147.986,-6.637,0.0575,0.0,0.102,0.3,9
+2Wo6QQD1KMDWeFkkjLqwx5,Roses - Imanbek Remix,SAINt JHN,71,914123,"['melodic rap', 'rap', 'slap house', 'trap']",57,Roses (Imanbek Remix),2020,0.785,0.894,0.721,121.962,-5.457,0.0506,0.00432,0.285,0.0149,8
+4Lxseh0wN7N0ljiOh8KwbU,Come & Go (with Marshmello),Juice WRLD,91,27045858,"['chicago rap', 'melodic rap']",64,Come & Go (with Marshmello),2020,0.625,0.532,0.811,144.994,-5.183,0.0659,0.0,0.16,0.0173,0
+3Dv1eDb0MEgF93GpLXlucZ,Say So,Doja Cat,88,23698604,"['dance pop', 'pop']",77,Hot Pink,2020,0.787,0.779,0.673,110.962,-4.583,0.159,3.35e-06,0.0904,0.264,11
+2Z8yfpFX0ZMavHkcIeHiO1,Monster (Shawn Mendes & Justin Bieber),Shawn Mendes,85,40290057,"['canadian pop', 'dance pop', 'pop', 'viral pop']",72,Monster,2020,0.652,0.549,0.383,145.765,-7.076,0.0516,0.0,0.0828,0.0676,2
+45bE4HXI0AwGZXfZtMp8JR,you broke me first,Tate McRae,80,3289904,['pop'],82,you broke me first,2020,0.667,0.0823,0.373,124.148,-9.389,0.05,0.0,0.0906,0.785,4
+4HBZA5flZLE435QTztThqH,Stuck with U (with Justin Bieber),Ariana Grande,92,86223116,"['dance pop', 'pop']",81,Stuck with U,2020,0.597,0.537,0.45,178.765,-6.658,0.0418,0.0,0.382,0.223,8
+1raaNykBg1bDnWENUiglUA,Break My Heart,Dua Lipa,88,37860792,"['dance pop', 'pop', 'uk pop']",66,Break My Heart,2020,0.73,0.467,0.729,113.012,-3.434,0.0886,1.39e-06,0.349,0.167,4
+5RqR4ZCCKJDcBLIn4sih9l,Party Girl,StaySolidRocky,60,162938,"['melodic rap', 'viral rap']",70,Party Girl,2020,0.728,0.629,0.431,130.022,-9.966,0.0622,0.0,0.0996,0.749,6
+0PvFJmanyNQMseIFrU708S,For The Night (feat. Lil Baby & DaBaby),Pop Smoke,84,11781110,['brooklyn drill'],80,Shoot For The Stars Aim For The Moon,2020,0.823,0.347,0.586,125.971,-6.606,0.2,0.0,0.193,0.114,6
+4Oun2ylbjFKMPTiaSbbCih,WAP (feat. Megan Thee Stallion),Cardi B,82,20869665,"['dance pop', 'pop', 'rap']",79,WAP (feat. Megan Thee Stallion),2020,0.935,0.357,0.454,133.073,-7.509,0.375,0.0,0.0824,0.0194,1
+1K5KBOgreBi5fkEHvg5ap3,Life Is Good (feat. Drake),Future,90,12744747,"['atl hip hop', 'rap', 'southern hip hop', 'trap']",72,High Off Life,2020,0.795,0.537,0.574,142.053,-6.903,0.487,0.0,0.15,0.067,2
+3jjujdWJ72nww5eGnfs2E7,Adore You,Harry Styles,90,25143615,['pop'],84,Fine Line,2020,0.676,0.569,0.771,99.048,-3.675,0.0483,7e-06,0.102,0.0237,8
+3GZoWLVbmxcBys6g0DLFLf,Supalonely (feat. Gus Dapperton),BENEE,68,730017,"['alt z', 'nz pop', 'pop']",60,Hey u x,2020,0.862,0.841,0.631,128.978,-4.746,0.0515,0.000209,0.123,0.291,7
+4LEK9rD7TWIG4FCL1s27XC,cardigan,Taylor Swift,99,64803537,['pop'],49,folklore,2020,0.613,0.551,0.581,130.033,-8.588,0.0424,0.000345,0.25,0.537,0
+3ZCTVFBt2Brf31RLEnCkWJ,everything i wanted,Billie Eilish,89,73989789,"['art pop', 'electropop', 'pop']",84,everything i wanted,2020,0.704,0.243,0.225,120.006,-14.454,0.0994,0.657,0.106,0.902,6
+62aP9fBQKYKxi7PDXwcUAS,ily (i love you baby) (feat. Emilee),Surf Mesa,63,154400,['tropical house'],75,ily (i love you baby) (feat. Emilee),2020,0.674,0.33,0.774,112.05,-7.567,0.0892,0.00188,0.393,0.0686,11
+5u1n1kITHCxxp8twBcZxWy,Holy (feat. Chance The Rapper),Justin Bieber,92,68604026,"['canadian pop', 'pop']",72,Holy,2020,0.673,0.372,0.704,86.919,-8.056,0.36,0.0,0.0898,0.196,6
+2tnVG71enUj33Ic2nFN6kZ,Ride It,Regard,71,202792,"['dance pop', 'edm', 'electro house', 'pop', 'pop dance', 'pop edm', 'slap house', 'tropical house']",79,Ride It,2020,0.88,0.884,0.751,117.948,-4.258,0.0874,6.43e-05,0.106,0.177,7
+1xQ6trAsedVPCdbtDAmk0c,Savage Love (Laxed - Siren Beat),Jawsh 685,64,108947,['nz pop'],75,Savage Love (Laxed - Siren Beat),2020,0.767,0.761,0.481,150.076,-8.52,0.0803,0.0,0.269,0.234,0
+5JqZ3oqF00jkT81foAFvqg,Prisoner (feat. Dua Lipa),Miley Cyrus,82,19061072,"['dance pop', 'pop', 'post-teen pop']",7,Prisoner (feat. Dua Lipa),2020,0.781,0.595,0.67,127.99,-3.912,0.0452,0.0,0.0761,0.0103,3
+5v4GgrXPMghOnBBLmveLac,Savage Remix (feat. Beyoncé),Megan Thee Stallion,80,7355579,"['dance pop', 'houston rap', 'pop', 'rap', 'trap queen']",65,Savage Remix (feat. Beyoncé),2020,0.822,0.636,0.743,84.459,-4.772,0.28,0.0,0.127,0.016,10
+127QTOFJsJQp5LbJbu3A1y,Toosie Slide,Drake,97,70260570,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",72,Toosie Slide,2020,0.834,0.837,0.454,81.618,-9.75,0.201,6.15e-06,0.114,0.321,1
+22LAwLoDA5b4AaGSkg6bKW,Blueberry Faygo,Lil Mosey,71,4898789,"['melodic rap', 'rap', 'rap conscient', 'trap', 'vapor trap', 'viral rap']",74,Certified Hitmaker,2020,0.774,0.349,0.554,99.034,-7.909,0.0383,0.0,0.132,0.207,0
+6EDO9iiTtwNv6waLwa1UUq,POPSTAR (feat. Drake),DJ Khaled,79,8910889,"['hip hop', 'miami hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",72,POPSTAR (feat. Drake),2020,0.8,0.45,0.56,163.071,-4.818,0.261,0.0,0.134,0.057,5
+3vAn0qZzdyuHamcrpkfiX3,How You Like That,BLACKPINK,86,35705698,"['k-pop', 'k-pop girl group']",1,How You Like That,2020,0.828,0.351,0.782,130.013,-4.014,0.0918,3.41e-05,0.0544,0.0694,11
+27ycaQnQAxaPiyeg3nr2aB,Midnight Sky,Miley Cyrus,82,19061072,"['dance pop', 'pop', 'post-teen pop']",6,Midnight Sky,2020,0.705,0.259,0.814,110.0,-5.466,0.0346,0.00312,0.203,0.00115,4
+41L3O37CECZt3N7ziG2z7l,Yummy,Justin Bieber,92,68604026,"['canadian pop', 'pop']",67,Yummy,2020,0.687,0.494,0.514,145.921,-6.612,0.0897,0.0,0.116,0.366,9
+6WrI0LAC5M1Rw2MnX2ZvEg,Don't Start Now,Dua Lipa,88,37860792,"['dance pop', 'pop', 'uk pop']",77,Don't Start Now,2020,0.794,0.677,0.793,123.941,-4.521,0.0842,0.0,0.0952,0.0125,11
+21jGcNKet2qwijlDFuPiPb,Circles,Post Malone,89,39233698,"['dfw rap', 'melodic rap', 'rap']",85,Hollywood's Bleeding,2020,0.695,0.553,0.762,120.042,-3.497,0.0395,0.00244,0.0863,0.192,0
+47EiUVwUp4C9fGccaPuUCS,DÁKITI,Bad Bunny,100,61605591,"['reggaeton', 'trap latino', 'urbano latino']",82,DÁKITI,2020,0.731,0.145,0.573,109.928,-10.059,0.0544,5.22e-05,0.113,0.401,4
+2gMXnyrvIjhVBUZwvLZDMP,Before You Go,Lewis Capaldi,82,10273437,"['pop', 'uk pop']",82,Divinely Uninspired To A Hellish Extent (Extended Edition),2020,0.459,0.183,0.575,111.881,-4.858,0.0573,0.0,0.0885,0.604,3
+7lidXGPXPYLNThITAOTlkK,You should be sad,Halsey,83,19082078,"['dance pop', 'electropop', 'etherpop', 'indie poptimism', 'pop']",71,Manic,2020,0.591,0.324,0.585,110.94,-6.35,0.0277,0.0,0.109,0.143,2
+1rgnBhdG2JDFTbYkYRZAku,Dance Monkey,Tones And I,71,2987874,"['australian pop', 'pop']",63,Dance Monkey,2020,0.826,0.541,0.593,98.083,-6.401,0.0976,0.000161,0.17,0.688,6
+2b8fOow8UzyDFAE27YhOZM,Memories,Maroon 5,86,39097018,['pop'],30,Memories,2020,0.764,0.575,0.32,91.019,-7.209,0.0546,0.0,0.0822,0.837,11
+54bFM56PmE4YLRnqpW6Tha,Therefore I Am,Billie Eilish,89,73989789,"['art pop', 'electropop', 'pop']",73,Therefore I Am,2020,0.889,0.716,0.34,94.009,-7.773,0.0697,0.13,0.055,0.218,11
+2ajzBr7vwHTEBeqDzcsNRC,That Way - Bonus Track,Lil Uzi Vert,87,14244944,"['melodic rap', 'philly rap', 'rap', 'trap']",62,Eternal Atake,2020,0.712,0.504,0.598,130.007,-5.368,0.0388,0.0,0.154,0.0546,7
+6Im9k8u9iIzKMrmV7BWtlF,34+35,Ariana Grande,92,86223116,"['dance pop', 'pop']",80,Positions,2020,0.83,0.485,0.585,109.978,-6.476,0.094,0.0,0.248,0.237,0
+463CkQjx2Zk1yXoBuierM9,Levitating (feat. DaBaby),Dua Lipa,88,37860792,"['dance pop', 'pop', 'uk pop']",75,Levitating (feat. DaBaby),2020,0.702,0.915,0.825,102.977,-3.787,0.0601,0.0,0.0674,0.00883,6
+39Yp9wwQiSRIDOvrVg7mbk,THE SCOTTS,THE SCOTTS,59,182535,[],75,THE SCOTTS,2020,0.716,0.28,0.537,129.979,-7.648,0.0514,0.0,0.157,0.233,0
+2MbdDtCv5LUVjYy9RuGTgC,"WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) - Remix",Jack Harlow,82,2747106,"['deep underground hip hop', 'kentucky hip hop', 'rap']",73,"WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) [Remix]",2020,0.904,0.835,0.723,145.013,-5.224,0.26,0.0,0.185,0.0631,11
+3H7ihDc1dqLriiWXwsc2po,Breaking Me,Topic,75,193652,"['dance pop', 'edm', 'electro house', 'german dance', 'pop dance', 'pop edm', 'tropical house']",76,Breaking Me,2020,0.789,0.664,0.72,122.031,-5.652,0.218,0.0,0.129,0.223,8
+6cx06DFPPHchuUAcTxznu9,Head & Heart (feat. MNEK),Joel Corry,75,315930,"['dance pop', 'edm', 'pop', 'pop dance', 'tropical house', 'uk dance']",78,Head & Heart (feat. MNEK),2020,0.734,0.905,0.874,122.953,-3.158,0.0662,1.14e-05,0.0489,0.168,8
+6AGOKlMZWLCaEJGnaROtF9,Put Your Records On,Ritt Momney,60,123412,"['bedroom pop', 'indie pop']",74,Put Your Records On,2020,0.399,0.151,0.491,91.066,-10.778,0.0538,0.00089,0.11,0.0563,6
+5rZlwNFl01HqLWBQGryKSm,Mood Swings (feat. Lil Tjay),Pop Smoke,84,11781110,['brooklyn drill'],77,Shoot For The Stars Aim For The Moon,2020,0.48,0.269,0.602,179.798,-6.335,0.368,0.0,0.0848,0.487,10
+2SAqBLGA283SUiwJ3xOUVI,Laugh Now Cry Later (feat. Lil Durk),Drake,97,70260570,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",78,Laugh Now Cry Later (feat. Lil Durk),2020,0.761,0.522,0.518,133.976,-8.871,0.134,3.47e-05,0.107,0.244,0
+7szuecWAPwGoV1e5vGu8tl,In Your Eyes,The Weeknd,96,55208147,"['canadian contemporary r&b', 'canadian pop', 'pop']",79,After Hours,2020,0.667,0.717,0.719,100.021,-5.371,0.0346,8.1e-05,0.0736,0.00285,7
+7HMmFQsKsljwTw8bS7lu19,Rare,Selena Gomez,85,39199832,"['dance pop', 'pop', 'post-teen pop']",63,Rare,2020,0.838,0.631,0.545,114.998,-6.713,0.0706,8.01e-05,0.103,0.208,5
+70rFIfYN7lU6iTgUIVP42w,my ex's best friend (with blackbear),Machine Gun Kelly,81,4917721,"['ohio hip hop', 'pop rap']",1,my ex's best friend (with blackbear),2020,0.728,0.33,0.685,124.934,-5.096,0.0433,0.0,0.152,0.00391,5
+3IB5qOeMayvpOdHxYCL5tZ,ON (Feat. Sia),BTS,92,59250185,"['k-pop', 'k-pop boy group']",0,MAP OF THE SOUL : 7,2020,0.591,0.386,0.848,105.922,-4.397,0.0828,0.0,0.372,0.137,9
+14wf185UxfNbSy8dwt4r4q,MAMACITA,Black Eyed Peas,81,7105286,"['dance pop', 'pop', 'pop rap']",66,MAMACITA,2020,0.894,0.428,0.635,105.013,-6.929,0.0473,0.00105,0.0823,0.193,2
+7k4t7uLgtOxPwTpFmtJNTY,Tusa,KAROL G,87,30916339,"['reggaeton', 'reggaeton colombiano', 'urbano latino']",76,Tusa,2020,0.803,0.574,0.715,101.085,-3.28,0.298,0.000134,0.0574,0.295,2
+3Z8FwOEN59mRMxDCtb8N0A,Be Kind (with Halsey),Marshmello,83,34652549,"['brostep', 'dance pop', 'edm', 'pop', 'pop dance', 'progressive electro house']",75,Be Kind (with Halsey),2020,0.63,0.452,0.633,93.995,-7.088,0.0457,0.0,0.0541,0.00776,4
+7qEHsqek33rTcFNT9PFqLf,Someone You Loved,Lewis Capaldi,82,10273437,"['pop', 'uk pop']",86,Divinely Uninspired To A Hellish Extent,2020,0.501,0.446,0.405,109.891,-5.679,0.0319,0.0,0.105,0.751,1
+7MN8RYSofZsFROBlEOAzXq,Past Life (with Selena Gomez),Trevor Daniel,67,729773,"['melodic rap', 'pop', 'pop rap', 'viral rap']",63,Past Life (with Selena Gomez),2020,0.575,0.283,0.543,159.905,-5.062,0.0529,0.0,0.176,0.102,3
+4y4spB9m0Q6026KfkAvy9Q,Lonely (with benny blanco),Justin Bieber,92,68604026,"['canadian pop', 'pop']",72,Lonely (with benny blanco),2020,0.631,0.0927,0.239,79.859,-7.071,0.0398,0.0,0.116,0.864,11
+0EhpEsp4L0oRGM0vmeaN5e,UN DIA (ONE DAY) (Feat. Tainy),J Balvin,88,36172471,"['reggaeton', 'reggaeton colombiano', 'urbano latino']",73,UN DIA (ONE DAY) (Feat. Tainy),2020,0.571,0.393,0.693,168.169,-8.234,0.0545,0.0,0.173,0.00536,6
+3AzjcOeAmA57TIOr9zF1ZW,Physical,Dua Lipa,88,37860792,"['dance pop', 'pop', 'uk pop']",76,Future Nostalgia,2020,0.647,0.746,0.844,146.967,-3.756,0.0457,0.000658,0.102,0.0137,0
+1yoMvmasuxZfqHEipJhRbp,Hawái,Maluma,85,32907456,"['reggaeton', 'reggaeton colombiano', 'urbano latino']",77,PAPI JUANCHO,2020,0.783,0.558,0.727,180.067,-3.454,0.389,2.46e-05,0.0626,0.185,6
+2kJwzbxV2ppxnQoYw4GLBZ,If the World Was Ending (feat. Julia Michaels),JP Saxe,69,392828,"['alt z', 'canadian contemporary r&b', 'neo mellow', 'pop']",77,If the World Was Ending (feat. Julia Michaels),2020,0.464,0.604,0.473,75.801,-10.086,0.129,0.0,0.109,0.866,1
+4NCsrTzgVfsDo8nWyP8PPc,RITMO (Bad Boys For Life),Black Eyed Peas,81,7105286,"['dance pop', 'pop', 'pop rap']",42,Translation,2020,0.723,0.684,0.704,105.095,-7.088,0.0571,0.00109,0.792,0.0259,10
+6R6ZoHTypt5lt68MWbzZXv,Sour Candy (with BLACKPINK),Lady Gaga,87,24354857,"['art pop', 'dance pop', 'pop']",67,Sour Candy (with BLACKPINK),2020,0.752,0.784,0.87,120.006,-3.812,0.0623,1.12e-05,0.489,0.0604,9
+6o3QUC5oAE4g6WxRIFcZtb,Wishing Well,Juice WRLD,91,27045858,"['chicago rap', 'melodic rap']",0,Legends Never Die,2020,0.65,0.0804,0.613,149.972,-6.13,0.128,0.0,0.267,0.00336,9
+4DpNNXFMMxQEKl7r0ykkWA,Play Date,Melanie Martinez,78,15927011,"['alt z', 'electropop', 'pop']",77,Cry Baby (Deluxe Edition),2020,0.68,0.446,0.729,123.97,-5.077,0.0475,0.0,0.224,0.612,5
+0TrPqhAMoaKUFLR7iYDokf,Know Your Worth,Khalid,86,15703950,"['pop', 'pop r&b']",68,Know Your Worth,2020,0.79,0.508,0.694,103.007,-7.726,0.0708,0.00252,0.281,0.145,9
+0RiRZpuVRbi7oqRdSMwhQY,Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,89,39233698,"['dfw rap', 'melodic rap', 'rap']",80,Hollywood's Bleeding,2020,0.755,0.925,0.522,89.96,-4.368,0.0575,0.0,0.0685,0.533,2
+2J4P46vCFm1rPkNkp9pZWX,Ice Cream (with Selena Gomez),BLACKPINK,86,35705698,"['k-pop', 'k-pop girl group']",64,Ice Cream (with Selena Gomez),2020,0.79,0.904,0.729,159.989,-3.843,0.334,9.31e-05,0.0411,0.0342,9
+2Fxmhks0bxGSBdJ92vM42m,bad guy,Billie Eilish,89,73989789,"['art pop', 'electropop', 'pop']",82,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2020,0.701,0.562,0.425,135.128,-10.965,0.375,0.13,0.1,0.328,7
+1IIKrJVP1C9N7iPtG6eOsK,Go Crazy,Chris Brown,89,17974372,"['dance pop', 'r&b']",77,Slime & B,2020,0.755,0.581,0.578,94.148,-8.932,0.145,0.0,0.25,0.316,0
+5KCbr5ndeby4y4ggthdiAb,Wonder,Shawn Mendes,85,40290057,"['canadian pop', 'dance pop', 'pop', 'viral pop']",69,Wonder,2020,0.333,0.132,0.637,139.898,-4.904,0.0581,1.8e-05,0.149,0.131,1
+4w47S36wQGBhGg073q3nt7,TKN (feat. Travis Scott),ROSALÍA,86,6486302,['r&b en espanol'],69,TKN (feat. Travis Scott),2020,0.776,0.485,0.509,94.634,-6.266,0.467,1.49e-06,0.115,0.192,0
+4HDCLYli2SUdkq9OjmvhSD,BELIEVE IT,PARTYNEXTDOOR,77,4490291,"['pop', 'r&b', 'rap', 'toronto rap', 'trap', 'urban contemporary']",69,PARTYMOBILE,2020,0.43,0.731,0.7,158.373,-5.35,0.264,0.0,0.216,0.0902,6
+4wNIkl5XGiAACjFBlDWuSd,What A Man Gotta Do,Jonas Brothers,79,6678238,"['boy band', 'dance pop', 'pop', 'post-teen pop']",70,What A Man Gotta Do,2020,0.852,0.324,0.698,113.039,-7.206,0.0629,1.03e-06,0.0773,0.00839,9
+4Ws314Ylb27BVsvlZOy30C,Lovesick Girls,BLACKPINK,86,35705698,"['k-pop', 'k-pop girl group']",72,THE ALBUM,2020,0.654,0.448,0.707,127.97,-5.661,0.0664,0.0,0.0873,0.00559,6
+2kJu14V7hbZw3I4K8L8SXb,Stupid Love,Lady Gaga,87,24354857,"['art pop', 'dance pop', 'pop']",32,Stupid Love,2020,0.676,0.796,0.815,117.973,-4.294,0.0625,0.00041,0.275,0.00146,8
+4xqrdfXkTW4T0RauPLv3WA,Heather,Conan Gray,82,7232040,"['bedroom pop', 'pop']",88,Kid Krow,2020,0.357,0.27,0.425,102.078,-7.301,0.0333,0.0,0.322,0.584,5
+2DEZmgHKAvm41k4J3R2E9Y,Safaera,Bad Bunny,100,61605591,"['reggaeton', 'trap latino', 'urbano latino']",79,YHLQMDLG,2020,0.607,0.685,0.829,96.172,-4.074,0.379,0.0,0.107,0.0103,2
+3eekarcy7kvN4yt5ZFzltW,HIGHEST IN THE ROOM,Travis Scott,91,21604073,"['rap', 'slap house']",81,HIGHEST IN THE ROOM,2020,0.598,0.0605,0.427,76.469,-8.764,0.0317,5.83e-06,0.21,0.0546,7
+59qrUpoplZxbIZxk6X0Bm3,Take You Dancing,Jason Derulo,80,11655739,"['dance pop', 'edm', 'pop', 'pop rap', 'post-teen pop']",76,Take You Dancing,2020,0.789,0.753,0.711,112.985,-4.248,0.041,0.0,0.0876,0.0332,2
+1DWZUa5Mzf2BwzpHtgbHPY,Good News,Mac Miller,84,8357905,"['hip hop', 'pittsburgh rap', 'rap']",73,Circles,2020,0.794,0.241,0.32,174.088,-12.92,0.173,0.134,0.112,0.853,1
+2ygvZOXrIeVL4xZmAWJT2C,my future,Billie Eilish,89,73989789,"['art pop', 'electropop', 'pop']",70,my future,2020,0.444,0.0875,0.309,104.745,-10.956,0.062,0.132,0.352,0.795,8
+6v3KW9xbzN5yKLt9YKDYA2,Señorita,Shawn Mendes,85,40290057,"['canadian pop', 'dance pop', 'pop', 'viral pop']",80,Shawn Mendes (Deluxe),2020,0.759,0.749,0.548,116.967,-6.049,0.029,0.0,0.0828,0.0392,9
+1fipvP2zmef6vN2IwXfJhY,I’m Ready (with Demi Lovato),Sam Smith,89,21167020,"['pop', 'uk pop']",63,I’m Ready (with Demi Lovato),2020,0.501,0.152,0.674,155.051,-6.363,0.0408,3.56e-05,0.282,0.00346,5
+6zFMeegAMYQo0mt8rXtrli,HOLIDAY,Lil Nas X,83,12179866,"['lgbtq+ hip hop', 'pop']",74,HOLIDAY,2020,0.81,0.837,0.511,151.947,-6.924,0.164,0.0,0.0832,0.12,5
+6PERP62TejQjgHu81OHxgM,good 4 u,Olivia Rodrigo,84,22954261,['pop'],24,good 4 u,2021,0.556,0.668,0.661,168.56,-5.052,0.204,0.0,0.101,0.3,6
+67BtfxlNbhBmCDR2L2l8qd,MONTERO (Call Me By Your Name),Lil Nas X,83,12179866,"['lgbtq+ hip hop', 'pop']",76,MONTERO (Call Me By Your Name),2021,0.61,0.758,0.508,178.818,-6.682,0.152,0.0,0.384,0.297,8
+3Wrjm47oTz2sjIgck11l5e,Beggin',Måneskin,80,6612817,"['indie rock italiano', 'italian pop']",84,Chosen,2021,0.714,0.589,0.8,134.002,-4.808,0.0504,0.0,0.359,0.127,11
+6PQ88X9TkUIAUIZJHW2upE,Bad Habits,Ed Sheeran,91,106848986,"['pop', 'uk pop']",21,Bad Habits,2021,0.808,0.591,0.897,126.026,-3.712,0.0348,3.14e-05,0.364,0.0469,11
+7lPN2DXiMsVn7XUKtOW1CS,drivers license,Olivia Rodrigo,84,22954261,['pop'],28,drivers license,2021,0.585,0.132,0.436,143.874,-8.761,0.0601,1.31e-05,0.105,0.721,10
+0gplL1WMoJ6iYaPgMCL0gX,Easy On Me,Adele,86,44941148,"['british soul', 'pop', 'pop soul', 'uk pop']",83,Easy On Me,2021,0.604,0.13,0.366,141.981,-7.519,0.0282,0.0,0.133,0.578,5
+7MAibcTli4IisCtbHKrGMh,Leave The Door Open,Bruno Mars,89,45203145,"['dance pop', 'pop']",13,Leave The Door Open,2021,0.586,0.719,0.616,148.088,-7.964,0.0324,0.0,0.0927,0.182,5
+4iJyoBOLtHqaGxP12qzhQI,Peaches (feat. Daniel Caesar & Giveon),Justin Bieber,92,68604026,"['canadian pop', 'pop']",83,Justice,2021,0.677,0.464,0.696,90.03,-6.181,0.119,0.0,0.42,0.321,0
+37BZB0z9T8Xu7U3e65qxFy,Save Your Tears (with Ariana Grande) (Remix),The Weeknd,96,55208147,"['canadian contemporary r&b', 'canadian pop', 'pop']",82,Save Your Tears (Remix),2021,0.65,0.593,0.825,118.091,-4.645,0.0325,2.44e-05,0.0936,0.0215,0
+5HCyWlXZPP0y6Gqq8TgA20,STAY (with Justin Bieber),The Kid LAROI,82,4148682,"['australian hip hop', 'pop']",87,STAY (with Justin Bieber),2021,0.591,0.478,0.764,169.928,-5.484,0.0483,0.0,0.103,0.0383,1
+748mdHapucXQri7IAO8yFK,Kiss Me More (feat. SZA),Doja Cat,88,23698604,"['dance pop', 'pop']",79,Kiss Me More (feat. SZA),2021,0.762,0.742,0.701,110.968,-3.541,0.0286,0.000158,0.123,0.235,8
+5Z9KJZvQzH6PFmb8SNkxuk,INDUSTRY BABY (feat. Jack Harlow),Lil Nas X,83,12179866,"['lgbtq+ hip hop', 'pop']",80,MONTERO,2021,0.741,0.892,0.691,150.087,-7.395,0.0672,0.0,0.0476,0.0221,10
+3VqeTFIvhxu3DIe4eZVzGq,Butter,BTS,92,59250185,"['k-pop', 'k-pop boy group']",2,Butter,2021,0.759,0.695,0.459,109.997,-5.187,0.0948,0.0,0.0906,0.00323,8
+6Im9k8u9iIzKMrmV7BWtlF,34+35,Ariana Grande,92,86223116,"['dance pop', 'pop']",80,Positions,2021,0.83,0.485,0.585,109.978,-6.476,0.094,0.0,0.248,0.237,0
+6Uj1ctrBOjOas8xZXGqKk4,Woman,Doja Cat,88,23698604,"['dance pop', 'pop']",86,Planet Her,2021,0.824,0.881,0.764,107.998,-4.175,0.0854,0.00294,0.117,0.0888,5
+6tDDoYIxWvMLTdKpjFkc1B,telepatía,Kali Uchis,81,3419997,"['colombian pop', 'pop']",81,Sin Miedo (del Amor y Otros Demonios) ∞,2021,0.653,0.553,0.524,83.97,-9.016,0.0502,0.0,0.203,0.112,11
+61KpQadow081I2AsbeLcsb,deja vu,Olivia Rodrigo,84,22954261,['pop'],17,deja vu,2021,0.439,0.172,0.61,181.088,-7.236,0.116,1.07e-05,0.341,0.593,9
+3FAJ6O0NOHQV8Mc5Ri6ENp,Heartbreak Anniversary,Giveon,80,2696839,"['pop', 'r&b']",82,TAKE TIME,2021,0.449,0.543,0.465,89.087,-8.964,0.0791,1.02e-06,0.303,0.524,0
+3YJJjQPAbDT7mGpX3WtQ9A,Good Days,SZA,94,9581774,"['pop', 'r&b']",82,Good Days,2021,0.436,0.412,0.655,121.002,-8.37,0.0583,8.1e-06,0.688,0.499,1
+4RVwu0g32PAqgUiJoXsdF8,Happier Than Ever,Billie Eilish,89,73989789,"['art pop', 'electropop', 'pop']",86,Happier Than Ever,2021,0.332,0.297,0.225,81.055,-8.697,0.0348,0.00349,0.128,0.767,0
+3USxtqRwSYz57Ewm6wWRMp,Heat Waves,Glass Animals,79,3555369,"['gauze pop', 'indietronica', 'shiver pop']",80,Dreamland,2021,0.761,0.531,0.525,80.87,-6.9,0.0944,6.7e-06,0.0921,0.44,11
+3FeVmId7tL5YN8B7R3imoM,My Universe,Coldplay,89,40711815,"['permanent wave', 'pop']",82,My Universe,2021,0.588,0.443,0.701,104.988,-6.39,0.0402,0.0,0.2,0.00813,9
+463CkQjx2Zk1yXoBuierM9,Levitating (feat. DaBaby),Dua Lipa,88,37860792,"['dance pop', 'pop', 'uk pop']",75,Levitating (feat. DaBaby),2021,0.702,0.915,0.825,102.977,-3.787,0.0601,0.0,0.0674,0.00883,6
+4pt5fDVTg5GhEvEtlz9dKk,I WANNA BE YOUR SLAVE,Måneskin,80,6612817,"['indie rock italiano', 'italian pop']",82,Teatro d'ira - Vol. I,2021,0.75,0.958,0.608,132.507,-4.008,0.0387,0.0,0.178,0.00165,1
+3Ofmpyhv5UAQ70mENzB277,Astronaut In The Ocean,Masked Wolf,69,634872,"['australian hip hop', 'viral rap']",77,Astronaut In The Ocean,2021,0.778,0.472,0.695,149.996,-6.865,0.0913,0.0,0.15,0.175,4
+7hU3IHwjX150XLoTVmjD0q,MONEY,LISA,71,3903066,['k-pop'],77,LALISA,2021,0.831,0.396,0.554,140.026,-9.998,0.218,6.12e-05,0.152,0.161,1
+35mvY5S1H3J2QZyna3TFe0,positions,Ariana Grande,92,86223116,"['dance pop', 'pop']",83,Positions,2021,0.737,0.682,0.802,144.015,-4.771,0.0878,0.0,0.0931,0.468,0
+5CZ40GBx1sQ9agT82CLQCT,traitor,Olivia Rodrigo,84,22954261,['pop'],86,SOUR,2021,0.38,0.0849,0.339,100.607,-7.885,0.0338,0.0,0.12,0.691,3
+2Xr1dTzJee307rmrkt8c0g,love nwantiti (ah ah ah),CKay,74,1146720,['afro r&b'],82,CKay The First,2021,0.727,0.533,0.739,93.005,-3.805,0.0411,0.00137,0.161,0.365,8
+10hcDov7xmcRviA8jLwEaI,Need to Know,Doja Cat,88,23698604,"['dance pop', 'pop']",66,Need to Know,2021,0.664,0.194,0.609,130.041,-6.509,0.0707,0.0,0.0926,0.304,1
+5enxwA8aAbwZbf5qCHORXi,All Too Well (10 Minute Version) (Taylor's Version) (From The Vault),Taylor Swift,99,64803537,['pop'],82,Red (Taylor's Version),2021,0.631,0.205,0.518,93.023,-8.771,0.0303,0.0,0.088,0.274,0
+3UoULw70kMsiVXxW0L3A33,pov,Ariana Grande,92,86223116,"['dance pop', 'pop']",75,Positions,2021,0.487,0.173,0.534,131.798,-5.664,0.0555,0.0,0.1,0.36,0
+7BoobGhD4x5K96Me0hqC8Q,Build a Bitch,Bella Poarch,66,923273,['modern alternative pop'],74,Build a Bitch,2021,0.855,0.866,0.463,102.931,-7.454,0.0367,1.77e-05,0.347,0.217,3
+60ynsPSSKe6O3sfwRnIBRf,Streets,Doja Cat,88,23698604,"['dance pop', 'pop']",82,Hot Pink,2021,0.749,0.189,0.463,90.035,-8.433,0.0842,0.0382,0.338,0.21,11
+1XXimziG1uhM0eDNCZCrUl,Up,Cardi B,82,20869665,"['dance pop', 'pop', 'rap']",72,Up,2021,0.868,0.819,0.795,166.0,-6.044,0.269,0.0193,0.0461,0.0012,11
+4MzXwWMhyBbmu6hOcLVD49,DÁKITI,Bad Bunny,100,61605591,"['reggaeton', 'trap latino', 'urbano latino']",80,EL ÚLTIMO TOUR DEL MUNDO,2021,0.731,0.145,0.573,109.928,-10.059,0.0544,5.22e-05,0.113,0.401,4
+4fSIb4hdOQ151TILNsSEaF,Todo De Ti,Rauw Alejandro,91,14861369,"['puerto rican pop', 'trap latino', 'urbano latino']",80,Todo De Ti,2021,0.78,0.342,0.718,127.949,-3.605,0.0506,0.000163,0.0932,0.31,3
+079Ey5uxL04AKPQgVQwx5h,Baila Conmigo (with Rauw Alejandro),Selena Gomez,85,39199832,"['dance pop', 'pop', 'post-teen pop']",73,Revelación - EP,2021,0.823,0.664,0.544,149.903,-7.132,0.0715,0.00315,0.0966,0.0215,5
+75MNhvTCCKsST3YqqUiU9r,Shivers,Ed Sheeran,91,106848986,"['pop', 'uk pop']",74,Shivers,2021,0.788,0.822,0.859,141.02,-2.724,0.0856,0.0,0.0424,0.281,2
+3KdoeNlEN0BoAKWzaRLNZa,Solar Power,Lorde,77,9896819,"['art pop', 'metropopolis', 'nz pop', 'pop']",1,Solar Power,2021,0.735,0.897,0.47,87.971,-9.405,0.1,0.000105,0.32,0.266,4
+1diS6nkxMQc3wwC4G1j0bh,We're Good,Dua Lipa,88,37860792,"['dance pop', 'pop', 'uk pop']",75,Future Nostalgia (The Moonlight Edition),2021,0.722,0.59,0.588,134.01,-5.932,0.0544,0.0,0.183,0.0319,6
+1EHUQesfVKwbthtNcpBi9g,WITHOUT YOU (with Miley Cyrus),The Kid LAROI,82,4148682,"['australian hip hop', 'pop']",70,WITHOUT YOU (with Miley Cyrus),2021,0.655,0.467,0.469,92.56,-6.257,0.0292,0.0,0.0956,0.173,0
+1fxYz1s15pyZLsJT0Hdh1m,late at night,Roddy Ricch,81,8748882,"['melodic rap', 'rap', 'trap']",67,late at night,2021,0.643,0.111,0.403,98.54,-11.254,0.41,0.0,0.138,0.343,1
+3J8EOeKLTLXORtWPpOU5bE,Calling My Phone,Lil Tjay,81,6016810,"['brooklyn drill', 'melodic rap', 'nyc rap']",80,Destined 2 Win,2021,0.907,0.202,0.393,104.949,-7.636,0.0539,1.35e-06,0.135,0.451,4
+18vXApRmJSgQ6wG2ll9AOg,RAPSTAR,Polo G,84,8842310,['chicago rap'],81,Hall of Fame,2021,0.789,0.437,0.536,81.039,-6.862,0.242,0.0,0.129,0.41,6
+37Nqx7iavZpotJSDXZWbJ3,Girls Want Girls (with Lil Baby),Drake,97,70260570,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",77,Certified Lover Boy,2021,0.767,0.381,0.438,86.975,-8.726,0.29,0.0,0.142,0.181,7
+5vGLcdRuSbUhD8ScwsGSdA,Whoopty,CJ,64,212992,['nyc rap'],72,Whoopty,2021,0.719,0.66,0.648,140.201,-7.6,0.125,0.0,0.127,0.2,3
+4jPy3l0RUwlUI9T5XHBW2m,Mood (feat. iann dior),24kGoldn,74,1936902,"['cali rap', 'pop', 'pop rap', 'rap']",82,El Dorado,2021,0.701,0.732,0.716,91.007,-3.671,0.0361,0.0,0.324,0.174,7
+2XIc1pqjXV3Cr2BQUGNBck,LA NOCHE DE ANOCHE,Bad Bunny,100,61605591,"['reggaeton', 'trap latino', 'urbano latino']",81,EL ÚLTIMO TOUR DEL MUNDO,2021,0.856,0.391,0.618,81.993,-4.892,0.286,0.0,0.0866,0.0303,7
+31qCy5ZaophVA81wtlwLc4,Anyone,Justin Bieber,92,68604026,"['canadian pop', 'pop']",73,Anyone,2021,0.686,0.584,0.538,115.884,-8.026,0.0345,3.13e-06,0.113,0.181,2
+0lx2cLdOt3piJbcaXIV74f,willow,Taylor Swift,99,64803537,['pop'],77,evermore,2021,0.392,0.529,0.574,81.112,-9.195,0.17,0.00179,0.145,0.833,7
+4u4NyuceXP7Uzh7XFJKCr1,Hold On,Justin Bieber,92,68604026,"['canadian pop', 'pop']",72,Hold On,2021,0.658,0.29,0.634,139.98,-5.797,0.0413,0.0,0.132,0.0106,1
+3CeCwYWvdfXbZLXFhBrbnf,Love Story (Taylor’s Version),Taylor Swift,99,64803537,['pop'],74,Love Story (Taylor’s Version),2021,0.626,0.416,0.79,119.082,-4.302,0.0311,3.97e-06,0.0989,0.135,2
+0E4Y1XIbs8GrAT1YqVy6dq,Afterglow,Ed Sheeran,91,106848986,"['pop', 'uk pop']",74,Afterglow,2021,0.641,0.273,0.324,110.184,-5.851,0.0299,0.0,0.328,0.698,11
+1zLBsSVxETQOfINOLYvT5m,GIRL LIKE ME,Black Eyed Peas,81,7105286,"['dance pop', 'pop', 'pop rap']",74,TRANSLATION,2021,0.965,0.312,0.485,124.025,-8.784,0.191,0.0237,0.0655,0.0206,2
+7vrJn5hDSXRmdXoR30KgF1,BICHOTA,KAROL G,87,30916339,"['reggaeton', 'reggaeton colombiano', 'urbano latino']",74,BICHOTA,2021,0.863,0.838,0.666,163.908,-4.158,0.152,0.000493,0.103,0.212,1
+1xK1Gg9SxG8fy2Ya373oqb,Bandido,Myke Towers,86,10152552,"['reggaeton', 'trap latino', 'urbano latino']",73,Bandido,2021,0.713,0.682,0.617,168.021,-4.637,0.0887,0.0,0.0962,0.122,8
+5JqZ3oqF00jkT81foAFvqg,Prisoner (feat. Dua Lipa),Miley Cyrus,82,19061072,"['dance pop', 'pop', 'post-teen pop']",7,Prisoner (feat. Dua Lipa),2021,0.781,0.595,0.67,127.99,-3.912,0.0452,0.0,0.0761,0.0103,3
+0VjIjW4GlUZAMYd2vXMi3b,Blinding Lights,The Weeknd,96,55208147,"['canadian contemporary r&b', 'canadian pop', 'pop']",90,After Hours,2021,0.514,0.334,0.73,171.005,-5.934,0.0598,9.54e-05,0.0897,0.00146,1
+6fRxMU4LWwyaSSowV441IU,Beautiful Mistakes (feat. Megan Thee Stallion),Maroon 5,86,39097018,['pop'],30,Beautiful Mistakes (feat. Megan Thee Stallion),2021,0.713,0.721,0.676,99.048,-5.483,0.027,0.0,0.154,0.0377,10
+54bFM56PmE4YLRnqpW6Tha,Therefore I Am,Billie Eilish,89,73989789,"['art pop', 'electropop', 'pop']",73,Therefore I Am,2021,0.889,0.716,0.34,94.009,-7.773,0.0697,0.13,0.055,0.218,11
+3eZYOQO4UzKrUDYDghtnFw,test drive,Ariana Grande,92,86223116,"['dance pop', 'pop']",63,Positions (Deluxe),2021,0.698,0.322,0.708,115.036,-4.943,0.0454,0.0,0.124,0.0251,9
+6f3Slt0GbA2bPZlz0aIFXN,The Business,Tiësto,84,6643294,"['big room', 'brostep', 'dance pop', 'dutch edm', 'edm', 'house', 'pop dance', 'slap house', 'trance', 'tropical house']",81,The Business,2021,0.798,0.235,0.62,120.031,-7.079,0.232,0.0192,0.112,0.414,8
+02kDW379Yfd5PzW5A6vuGt,Lemonade,Internet Money,72,683353,"['pop rap', 'rap', 'trap', 'viral rap']",73,"Lemonade (feat. Gunna, Don Toliver & NAV)",2021,0.799,0.471,0.66,140.04,-6.153,0.079,0.0,0.111,0.256,1
+6UelLqGlWMcVH1E5c4H7lY,Watermelon Sugar,Harry Styles,90,25143615,['pop'],88,Fine Line,2021,0.548,0.557,0.816,95.39,-4.209,0.0465,0.0,0.335,0.122,0
+2xdwCJLfKCkat14mlgR26M,Lost Cause,Billie Eilish,89,73989789,"['art pop', 'electropop', 'pop']",2,Lost Cause,2021,0.671,0.518,0.336,75.051,-8.494,0.241,0.00751,0.0577,0.705,10
+3XoflnowYPFRPOh3uFvHcm,Selfish Love (with Selena Gomez),DJ Snake,78,8276215,"['dance pop', 'edm', 'electronic trap', 'pop', 'pop dance', 'pop rap']",60,Selfish Love (with Selena Gomez),2021,0.723,0.443,0.646,110.971,-7.973,0.102,0.352,0.0994,0.0206,5
+5TnQ453LtEy08EwrIUtB1e,What You Know Bout Love,Pop Smoke,84,11781110,['brooklyn drill'],26,LOVE,2021,0.584,0.56,0.547,83.917,-8.502,0.382,1.64e-06,0.134,0.655,7
+4saklk6nie3yiGePpBwUoc,Dynamite,BTS,92,59250185,"['k-pop', 'k-pop boy group']",11,BE,2021,0.746,0.737,0.765,114.044,-4.41,0.0993,0.0,0.0936,0.0112,6
+6cx06DFPPHchuUAcTxznu9,Head & Heart (feat. MNEK),Joel Corry,75,315930,"['dance pop', 'edm', 'pop', 'pop dance', 'tropical house', 'uk dance']",78,Head & Heart (feat. MNEK),2021,0.734,0.905,0.874,122.953,-3.158,0.0662,1.14e-05,0.0489,0.168,8
+5QO79kh1waicV47BqGRL3g,Save Your Tears,The Weeknd,96,55208147,"['canadian contemporary r&b', 'canadian pop', 'pop']",88,After Hours,2021,0.68,0.644,0.826,118.051,-5.487,0.0309,1.24e-05,0.543,0.0212,0
+0A1hoCfMLkiAgvhWkkucJa,Body,Megan Thee Stallion,80,7355579,"['dance pop', 'houston rap', 'pop', 'rap', 'trap queen']",70,Good News,2021,0.914,0.469,0.732,94.066,-6.1,0.241,0.0,0.107,0.0166,8
+2etHQJxIbV0soyPhelVs9Y,Best Friend (feat. Doja Cat),Saweetie,73,1715496,"['cali rap', 'dance pop', 'pop', 'rap', 'trap queen']",72,Best Friend (feat. Doja Cat),2021,0.84,0.402,0.766,94.018,-4.12,0.136,3.61e-06,0.0684,0.00302,4
+3jjBPF4NDMCU51psU8JPpR,"34+35 Remix (feat. Doja Cat, Megan Thee Stallion) - Remix",Ariana Grande,92,86223116,"['dance pop', 'pop']",65,34+35 (Remix),2021,0.88,0.726,0.662,109.988,-5.766,0.304,0.0,0.227,0.205,0
+3aQem4jVGdhtg116TmJnHz,What’s Next,Drake,97,70260570,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",74,Scary Hours 2,2021,0.781,0.0628,0.594,129.895,-6.959,0.0485,0.0,0.162,0.0136,0
+2pn8dNVSpYnAtlKFC8Q0DJ,On The Ground,ROSÉ,64,3451368,['k-pop'],68,R,2021,0.311,0.286,0.607,188.7,-6.578,0.11,0.0,0.131,0.0174,1
+6F2r4HgpJnvKDmkN6JEN6J,As I Am (feat. Khalid),Justin Bieber,92,68604026,"['canadian pop', 'pop']",67,Justice,2021,0.595,0.109,0.543,99.928,-8.149,0.038,0.0,0.0975,0.127,11
+0BI0hfbmqybnd3TezrDME3,Met Him Last Night (feat. Ariana Grande),Demi Lovato,80,23861372,"['dance pop', 'pop', 'post-teen pop']",59,Dancing With The Devil…The Art of Starting Over,2021,0.538,0.12,0.512,144.978,-4.548,0.0262,0.0,0.101,0.22,4
+1D3z6HTiQsNmZxjl7F7eoG,m y . l i f e (with 21 Savage & Morray),J. Cole,86,18721167,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",76,The Off-Season,2021,0.597,0.0753,0.587,140.021,-7.026,0.137,0.0,0.214,0.0622,7
+5qNh5WtzMbfpSj2jLlBkoD,Your Power,Billie Eilish,89,73989789,"['art pop', 'electropop', 'pop']",3,Your Power,2021,0.634,0.203,0.285,129.65,-14.007,0.0807,0.000359,0.232,0.937,9
+2JPLbjOn0wPCngEot2STUS,Yonaguni,Bad Bunny,100,61605591,"['reggaeton', 'trap latino', 'urbano latino']",87,Yonaguni,2021,0.644,0.44,0.648,179.951,-4.601,0.118,0.0,0.135,0.276,1
+0k4d5YPDr1r7FX77VdqWez,You Right,Doja Cat,88,23698604,"['dance pop', 'pop']",82,Planet Her,2021,0.828,0.436,0.621,128.986,-6.414,0.0565,0.00233,0.0845,0.0164,8
+0LThjFY2iTtNdd4wviwVV2,Permission to Dance,BTS,92,59250185,"['k-pop', 'k-pop boy group']",5,Butter / Permission to Dance,2021,0.702,0.646,0.741,124.925,-5.33,0.0427,0.0,0.337,0.00544,9
+40uMIn2zJLAQhNXghRjBed,Motley Crew,Post Malone,89,39233698,"['dfw rap', 'melodic rap', 'rap']",75,Motley Crew,2021,0.797,0.288,0.631,129.915,-3.818,0.0786,3.71e-06,0.0998,0.0904,3
+40iJIUlhi6renaREYGeIDS,Fair Trade (with Travis Scott),Drake,97,70260570,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",81,Certified Lover Boy,2021,0.666,0.292,0.465,167.937,-8.545,0.26,0.0,0.215,0.0503,1
+0RbW8kWozrVSIGb4V13o0o,Hurricane,Kanye West,91,18988471,"['chicago rap', 'rap']",4,Donda,2021,0.587,0.351,0.561,80.009,-6.569,0.146,0.0,0.109,0.0466,0
+5fwSHlTEWpluwOM0Sxnh5k,Pepas,Farruko,85,14456148,"['latin hip hop', 'reggaeton', 'trap latino', 'urbano latino']",84,Pepas,2021,0.762,0.442,0.766,130.001,-3.955,0.0343,6.98e-05,0.128,0.00776,7
+0e8nrvls4Qqv5Rfa2UhqmO,THATS WHAT I WANT,Lil Nas X,83,12179866,"['lgbtq+ hip hop', 'pop']",84,MONTERO,2021,0.737,0.546,0.846,87.981,-4.51,0.22,0.0,0.0486,0.00614,1
+6KgtcmCF9Ky68XC7ezxl3s,Rumors (feat. Cardi B),Lizzo,79,5274662,"['dance pop', 'escape room', 'minnesota hip hop', 'pop', 'trap queen']",69,Rumors (feat. Cardi B),2021,0.827,0.607,0.731,118.992,-5.524,0.088,0.0,0.418,0.13,4
+2sXf2JdbB2GlNju00kw9WE,Skate,Bruno Mars,89,45203145,"['dance pop', 'pop']",3,Skate,2021,0.708,0.698,0.598,112.027,-8.365,0.0291,0.0,0.17,0.037,5
+1QL7nSDZCwZMnbisV4KOXt,t r a n s p a r e n t s o u l feat. Travis Barker,WILLOW,75,2264169,"['afrofuturism', 'pop', 'post-teen pop']",66,t r a n s p a r e n t s o u l feat. Travis Barker,2021,0.39,0.191,0.83,90.021,-5.201,0.0563,0.0,0.156,0.0021,11
+6zSpb8dQRaw0M1dK8PBwQz,Cold Heart - PNAU Remix,Elton John,87,10650687,"['glam rock', 'mellow gold', 'piano rock']",86,Cold Heart (PNAU Remix),2021,0.796,0.942,0.798,116.032,-6.312,0.0317,4.19e-05,0.0952,0.034,1
+4qu63nuBpdn0qHUHuObEj1,Leave Before You Love Me (with Jonas Brothers),Marshmello,83,34652549,"['brostep', 'dance pop', 'edm', 'pop', 'pop dance', 'progressive electro house']",83,Leave Before You Love Me,2021,0.721,0.637,0.738,119.976,-4.77,0.0403,4.41e-06,0.118,0.00226,7
+2plRom0urixt6BE8t7kOhQ,Girl From Rio,Anitta,81,12493128,"['funk pop', 'funk rj', 'pagode baiano', 'pop nacional']",58,Girl From Rio,2021,0.692,0.733,0.639,140.059,-6.717,0.0352,0.0,0.199,0.00727,0
+4Ld4kbKo1eOzToQ0P8JA0V,Arcade (feat. FLETCHER),Duncan Laurence,70,450488,['dutch pop'],70,Small Town Boy,2021,0.446,0.267,0.395,71.944,-9.328,0.0365,0.00216,0.128,0.815,0
+0z8hI3OPS8ADPWtoCjjLl6,Summer of Love (Shawn Mendes & Tainy),Shawn Mendes,85,40290057,"['canadian pop', 'dance pop', 'pop', 'viral pop']",79,Summer Of Love,2021,0.776,0.494,0.808,123.988,-4.501,0.117,0.000127,0.103,0.0297,11
+07MDkzWARZaLEdKxo6yArG,Meet Me At Our Spot,THE ANXIETY,64,152584,['modern alternative pop'],78,THE ANXIETY,2021,0.773,0.399,0.47,94.995,-7.93,0.0299,0.000193,0.0851,0.0153,2
+0eu4C55hL6x29mmeAjytzC,Life Goes On,Oliver Tree,83,2066626,['alternative hip hop'],79,"Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",2021,0.7,0.569,0.49,79.982,-5.187,0.076,0.0,0.117,0.186,0
+3nY8AqaMNNHHLYV4380ol0,Dick (feat. Doja Cat),StarBoi3,54,26434,[],70,Dick (feat. Doja Cat),2021,0.647,0.474,0.608,125.994,-6.831,0.42,0.0,0.0584,0.13,9
+0WSEq9Ko4kFPt8yo3ICd6T,Praise God,Kanye West,91,18988471,"['chicago rap', 'rap']",77,Donda,2021,0.798,0.212,0.545,118.029,-6.466,0.168,9.48e-05,0.258,0.00904,1
+3nqQXoyQOWXiESFLlDF1hG,Unholy (feat. Kim Petras),Sam Smith,89,21167020,"['pop', 'uk pop']",98,Unholy (feat. Kim Petras),2022,0.714,0.238,0.472,131.121,-7.375,0.0864,4.51e-06,0.266,0.013,2
+2dHHgzDwk4BJdRwy9uXhTO,Creepin' (with The Weeknd & 21 Savage),Metro Boomin,92,3469982,['rap'],93,HEROES & VILLAINS,2022,0.715,0.172,0.62,97.95,-6.005,0.0484,0.0,0.0822,0.417,1
+4uUG5RXrOk84mYEfFvj3cK,I'm Good (Blue),David Guetta,89,25212859,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']",96,I'm Good (Blue),2022,0.561,0.304,0.965,128.04,-3.673,0.0343,7.07e-06,0.371,0.00383,7
+0V3wPSX9ygBnCm8psDIegu,Anti-Hero,Taylor Swift,99,64803537,['pop'],95,Midnights,2022,0.637,0.533,0.643,97.008,-6.571,0.0519,1.8e-06,0.142,0.13,4
+4LRPiXqCikLlN15c3yImP7,As It Was,Harry Styles,90,25143615,['pop'],92,As It Was,2022,0.52,0.662,0.731,173.93,-5.338,0.0557,0.00101,0.311,0.342,6
+1Qrg8KqiBpW07V7PNxwwwL,Kill Bill,SZA,94,9581774,"['pop', 'r&b']",86,SOS,2022,0.644,0.418,0.735,88.98,-5.747,0.0391,0.144,0.161,0.0521,8
+4k6Uh1HXdhtusDW5y8Gbvy,Bad Habit,Steve Lacy,85,2709721,['afrofuturism'],87,Gemini Rights,2022,0.686,0.7,0.494,168.946,-7.093,0.0355,5.8e-05,0.402,0.613,1
+0QHEIqNKsMoOY5urbzN48u,Made You Look,Meghan Trainor,86,12488656,"['dance pop', 'hip pop', 'pop']",93,Takin' It Back,2022,0.838,0.884,0.525,144.981,-3.562,0.0665,1.92e-06,0.0771,0.345,10
+4FyesJzVpA39hbYvcseO2d,Just Wanna Rock,Lil Uzi Vert,87,14244944,"['melodic rap', 'philly rap', 'rap', 'trap']",90,Just Wanna Rock,2022,0.486,0.0385,0.545,150.187,-7.924,0.0336,0.00474,0.0642,0.0652,11
+4C6Uex2ILwJi9sZXRdmqXp,Super Freaky Girl,Nicki Minaj,86,26958294,"['dance pop', 'hip pop', 'pop', 'queens hip hop', 'rap']",85,Super Freaky Girl,2022,0.95,0.912,0.891,133.01,-2.653,0.241,1.77e-05,0.309,0.0645,2
+4h9wh7iOZ0GGn8QVp4RAOB,I Ain't Worried,OneRepublic,85,14767716,"['piano rock', 'pop']",93,"I Ain’t Worried (Music From The Motion Picture ""Top Gun: Maverick"")",2022,0.704,0.825,0.797,139.994,-5.927,0.0475,0.000745,0.0546,0.0826,0
+1xzi1Jcr7mEi9K2RfzLOqS,CUFF IT,Beyoncé,87,33066838,"['dance pop', 'pop', 'r&b']",91,RENAISSANCE,2022,0.78,0.642,0.689,115.042,-5.668,0.141,9.69e-06,0.0698,0.0368,7
+4OqVZThHFzi88ir8F5agSs,what about your boyfriend?,Meric,49,2979,[],51,what about your boyfriend?,2022,0.776,0.236,0.675,139.911,-8.638,0.173,0.105,0.216,0.0969,7
+5IgjP7X4th6nMNDh4akUHb,Under The Influence,Chris Brown,89,17974372,"['dance pop', 'r&b']",94,Indigo (Extended),2022,0.733,0.31,0.69,116.992,-5.529,0.0427,1.18e-06,0.105,0.0635,9
+0QBzMgT7NIeoCYy3sJCof1,Bam Bam (feat. Ed Sheeran),Camila Cabello,83,28909127,"['dance pop', 'pop', 'post-teen pop']",82,Bam Bam (feat. Ed Sheeran),2022,0.756,0.956,0.697,94.996,-6.377,0.0401,0.0,0.333,0.182,8
+78Sw5GDo6AlGwTwanjXbGh,Here With Me,d4vd,81,459519,['bedroom pop'],91,Here With Me,2022,0.574,0.288,0.469,132.023,-8.209,0.0254,9.21e-05,0.128,0.534,4
+1I4wRSEnqLRMTsqKR4bbxh,Burn Our Bridges Down,RIELL,59,39357,[],49,Burn Our Bridges Down,2022,0.636,0.177,0.53,117.983,-5.629,0.0351,0.0,0.113,0.392,5
+5Z2MiIZ5I3jJvvmeWMLbOQ,Escapism.,RAYE,79,611121,"['dance pop', 'pop', 'uk contemporary r&b', 'uk pop']",88,Escapism. / The Thrill Is Gone.,2022,0.538,0.25,0.742,96.107,-5.355,0.114,4.67e-05,0.0934,0.138,2
+3zkyus0njMCL6phZmNNEeN,LET GO,Central Cee,83,2150291,['melodic drill'],88,LET GO,2022,0.735,0.514,0.449,146.016,-9.933,0.383,0.0,0.213,0.859,2
+39JofJHEtg8I4fSyo7Imft,B.O.T.A. (Baddest Of Them All) - Edit,Eliza Rose,69,26320,['house'],84,B.O.T.A. (Baddest Of Them All),2022,0.736,0.698,0.906,137.001,-7.589,0.048,0.585,0.106,0.164,0
+35ovElsgyAtQwYPYnZJECg,Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By,Rihanna,90,51709896,"['barbadian pop', 'dance pop', 'pop', 'urban contemporary']",88,Lift Me Up (From Black Panther: Wakanda Forever - Music From and Inspired By),2022,0.247,0.172,0.299,177.115,-6.083,0.0315,0.0,0.131,0.899,9
+4xZ3gU3bsLUDXkv7xS0phG,FAKE,Besomorph,64,99743,"['alt z', 'slap house', 'traprun']",56,FAKE,2022,0.503,0.0763,0.582,120.333,-7.179,0.0663,0.0,0.131,0.18,1
+2KLwPaRDOB87XOYAT2fgxh,Pussy & Millions (feat. Travis Scott),Drake,97,70260570,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",87,Her Loss,2022,0.749,0.445,0.63,122.03,-6.652,0.116,0.0,0.353,0.0623,4
+0WtM2NBVQNNJLh6scP13H8,Calm Down (with Selena Gomez),Rema,81,1598179,['nigerian pop'],93,Calm Down (with Selena Gomez),2022,0.801,0.802,0.806,106.999,-5.206,0.0381,0.000669,0.114,0.382,11
+0mBP9X2gPCuapvpZ7TGDk3,Left and Right (Feat. Jung Kook of BTS),Charlie Puth,84,18814377,"['dance pop', 'pop', 'viral pop']",85,Left and Right (Feat. Jung Kook of BTS),2022,0.881,0.719,0.592,101.058,-4.898,0.0324,1.32e-05,0.0901,0.619,2
+7h0hJMVFFSx7C2rOxa8Wxw,Love Feels Like a Prison to Me,Meric,49,2979,[],34,Love Feels Like a Prison to Me,2022,0.576,0.12,0.723,155.04,-5.911,0.136,0.000194,0.296,0.0522,9
+2WigMwGJysIh9fRnSJvpjn,KU LO SA - A COLORS SHOW,Oxlade,71,339824,[],83,KU LO SA - A COLORS SHOW,2022,0.649,0.793,0.655,92.9,-5.534,0.0652,0.0,0.22,0.307,10
+5unjCay0kUjuej5ebn4nS4,Down In Atlanta,Pharrell Williams,81,4093128,"['hip hop', 'pop', 'pop rap']",82,Down In Atlanta,2022,0.851,0.903,0.819,83.154,-5.173,0.212,0.000153,0.0658,0.337,7
+1PckUlxKqWQs3RlWXVBLw3,About Damn Time,Lizzo,79,5274662,"['dance pop', 'escape room', 'minnesota hip hop', 'pop', 'trap queen']",84,About Damn Time,2022,0.836,0.722,0.743,108.966,-6.305,0.0656,0.0,0.335,0.0995,10
+2jebSa6YGAuGpZ0omg00mW,Bad Blood,Johnning,54,9992,['pop edm'],48,Bad Blood,2022,0.699,0.6,0.691,120.069,-8.034,0.0571,5.02e-05,0.0792,0.436,2
+1xK59OXxi2TAAAbmZK0kBL,Romantic Homicide,d4vd,81,459519,['bedroom pop'],92,Romantic Homicide,2022,0.571,0.216,0.544,132.052,-10.613,0.0299,0.00805,0.322,0.453,6
+3NanY0K4okhIQzL33U5Ad8,Boy's a liar,PinkPantheress,76,1455404,[],84,Boy's a liar,2022,0.656,0.74,0.838,132.981,-8.407,0.041,0.00281,0.207,0.25,5
+74loibzxXRL875X20kenvk,Poland,Lil Yachty,78,8592913,"['atl hip hop', 'hip hop', 'melodic rap', 'rap', 'trap', 'underground hip hop', 'viral rap']",81,Poland,2022,0.695,0.26,0.555,150.024,-8.5,0.0509,0.826,0.11,0.141,5
+38Lln6qpL3prfXTi0rIZqs,Feel the Healing,Meric,49,2979,[],46,Feel the Healing,2022,0.605,0.438,0.954,138.025,-3.448,0.212,0.0,0.229,0.0454,0
+3rWDp9tBPQR9z6U5YyRSK4,Midnight Rain,Taylor Swift,99,64803537,['pop'],88,Midnights,2022,0.643,0.23,0.363,139.865,-11.738,0.0767,5.17e-05,0.115,0.69,0
+1bDbXMyjaUIooNwFE9wn0N,Rich Flex,Drake,97,70260570,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",94,Her Loss,2022,0.561,0.424,0.52,153.15,-9.342,0.244,1.86e-06,0.355,0.0503,11
+242pTkgoQTlXM8LnhMZ0XU,Does She Know,Besomorph,64,99743,"['alt z', 'slap house', 'traprun']",54,Does She Know,2022,0.574,0.27,0.689,119.799,-6.008,0.0563,0.0,0.275,0.584,3
+1RDvyOk4WtPCtoqciJwVn8,Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack],Jung Kook,80,5518789,['k-pop'],91,Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack],2022,0.71,0.341,0.879,114.993,-4.218,0.0422,0.00142,0.439,0.158,0
+2jkyPVk1nbpsZD0KAS98Zw,SPIT IN MY FACE!,ThxSoMch,72,94695,[],80,SPIT IN MY FACE!,2022,0.701,0.575,0.573,165.995,-9.637,0.0695,0.2,0.105,0.088,1
+2mqqpgoLEqCxlMh7gbOSrW,Band Aid,Johnning,54,9992,['pop edm'],50,Band Aid,2022,0.639,0.86,0.777,159.998,-6.995,0.0492,0.00472,0.0933,0.0206,6
+2LBqCSwhJGcFQeTHMVGwy3,Die For You,The Weeknd,96,55208147,"['canadian contemporary r&b', 'canadian pop', 'pop']",87,Starboy,2022,0.586,0.508,0.525,133.629,-7.163,0.0615,0.0,0.134,0.111,1
+2rmwqU7yzTvzkiaRV53DpT,2 Be Loved (Am I Ready),Lizzo,79,5274662,"['dance pop', 'escape room', 'minnesota hip hop', 'pop', 'trap queen']",80,Special,2022,0.721,0.915,0.769,155.932,-4.111,0.105,0.0,0.0817,0.0922,7
+3JvKfv6T31zO0ini8iNItO,Another Love,Tom Odell,80,2710749,"['chill pop', 'pop']",92,Long Way Down (Deluxe),2022,0.445,0.131,0.537,122.769,-8.532,0.04,1.65e-05,0.0944,0.695,4
+2qf8tVKPHwUE7AF10KJh8f,Moments of a Lifetime,LEFT.,39,1889,[],44,Moments of a Lifetime,2022,0.76,0.717,0.697,114.995,-6.419,0.0372,4.59e-06,0.096,0.233,7
+4tRhRLBxIZ34Iw0eCuiC03,Miss You,southstar,70,63891,[],83,Miss You,2022,0.663,0.296,0.559,145.007,-12.876,0.0391,0.0894,0.108,0.136,6
+5Y35SjAfXjjG0sFQ3KOxmm,Nobody Gets Me,SZA,94,9581774,"['pop', 'r&b']",90,SOS,2022,0.358,0.276,0.284,99.796,-8.285,0.0285,0.0,0.183,0.805,7
+5ildQOEKmJuWGl2vRkFdYc,DESPECHÁ,ROSALÍA,86,6486302,['r&b en espanol'],89,DESPECHÁ,2022,0.919,0.775,0.623,130.037,-6.521,0.0992,1.63e-05,0.0609,0.184,7
+3NVesfMLma4h2yYIQJZoRu,Better,Arc North,57,75246,"['covertronica', 'gaming edm', 'pop edm', 'slap house', 'traprun']",51,Better,2022,0.491,0.295,0.748,139.933,-5.728,0.0721,0.0,0.278,0.153,7
+5jQI2r1RdgtuT8S3iG8zFC,Lavender Haze,Taylor Swift,99,64803537,['pop'],88,Midnights,2022,0.733,0.0976,0.436,96.985,-10.489,0.08,0.000573,0.157,0.258,10
+0QPRDC97rIQB3Jh3hrVJoH,SNAP,Rosa Linn,77,173309,['alt z'],42,SNAP,2022,0.563,0.518,0.639,169.985,-8.205,0.0684,1.06e-05,0.446,0.107,0
+5hnGrTBaEsdukpDF6aZg8a,How Do I Say Goodbye,Dean Lewis,79,2350982,"['australian pop', 'pop']",85,How Do I Say Goodbye,2022,0.4,0.393,0.641,81.552,-6.303,0.0674,0.0,0.0656,0.214,8
+2NOWXfMgQIFwrC5AFJmD2z,Ready Or Not,Drama B,54,19435,['deep underground hip hop'],50,Ready Or Not,2022,0.578,0.158,0.804,105.049,-7.448,0.218,4.98e-06,0.111,0.354,10
+38T0tPVZHcPZyhtOcCP7pF,STAR WALKIN' (League of Legends Worlds Anthem),Lil Nas X,83,12179866,"['lgbtq+ hip hop', 'pop']",88,STAR WALKIN' (League of Legends Worlds Anthem),2022,0.637,0.308,0.715,141.872,-4.971,0.0455,0.0,0.0892,0.148,2
+37vVp2sWHuuIBOSl1NswP6,i'm yours,Isabel LaRosa,73,187613,"['hyperpop', 'pop']",83,i'm yours,2022,0.398,0.635,0.705,111.487,-7.07,0.0756,5.13e-05,0.443,0.204,5
+72yP0DUlWPyH8P7IoxskwN,Hold Me Closer,Elton John,87,10650687,"['glam rock', 'mellow gold', 'piano rock']",84,Hold Me Closer,2022,0.667,0.486,0.75,126.041,-4.602,0.0906,0.000198,0.197,0.0746,0
+1XinNsmHb0c1cvfsARHqyz,Love Me Faster,Meric,49,2979,[],49,Love Me Faster,2022,0.674,0.506,0.977,138.04,-4.984,0.132,0.00104,0.108,0.0718,0
+3RfTeIrWS8LNrfHYwechtt,Sunroof,Nicky Youre,73,95589,['pop'],6,Sunroof,2022,0.768,0.841,0.716,131.43,-5.11,0.0404,0.0,0.15,0.35,10
+2TktkzfozZifbQhXjT6I33,Evergreen (You Didn’t Deserve Me At All),Omar Apollo,75,694718,"['bedroom pop', 'bedroom soul', 'pop']",85,Ivory,2022,0.697,0.31,0.336,82.029,-10.395,0.0424,0.00528,0.107,0.598,9
+0xzI1KAr0Yd9tv8jlIk3sn,Bad Decisions (with BTS & Snoop Dogg),benny blanco,75,1018054,"['dance pop', 'edm', 'electropop', 'pop', 'pop rap']",82,Bad Decisions (with BTS & Snoop Dogg),2022,0.762,0.955,0.861,120.048,-3.296,0.0955,0.0,0.264,0.0185,0
+0SXmDmLbhs58mBqTrD3cc3,Toxic,Besomorph,64,99743,"['alt z', 'slap house', 'traprun']",50,Toxic,2022,0.43,0.151,0.528,139.266,-7.321,0.0887,0.0,0.428,0.323,2
+0O6u0VJ46W86TxN9wgyqDj,I Like You (A Happier Song) (with Doja Cat),Post Malone,89,39233698,"['dfw rap', 'melodic rap', 'rap']",88,Twelve Carat Toothache,2022,0.733,0.472,0.67,100.964,-6.009,0.0751,0.0,0.121,0.121,5
+75FEaRjZTKLhTrFGsfMUXR,Running Up That Hill (A Deal With God),Kate Bush,74,1582581,"['art pop', 'art rock', 'baroque pop', 'new wave pop', 'permanent wave', 'piano rock', 'singer-songwriter']",85,Hounds Of Love,2022,0.629,0.197,0.547,108.375,-13.123,0.055,0.00314,0.0604,0.72,10
+1qEmFfgcLObUfQm0j1W2CK,Late Night Talking,Harry Styles,90,25143615,['pop'],89,Harry's House,2022,0.714,0.901,0.728,114.996,-4.595,0.0468,0.0,0.106,0.298,10
+31i50JGEdynq8kbBz4kghs,Over Me,Meric,49,2979,[],44,Over Me,2022,0.633,0.143,0.656,138.053,-8.274,0.0474,0.0129,0.112,0.335,2
+5HCyWlXZPP0y6Gqq8TgA20,STAY (with Justin Bieber),The Kid LAROI,82,4148682,"['australian hip hop', 'pop']",87,STAY (with Justin Bieber),2022,0.591,0.478,0.764,169.928,-5.484,0.0483,0.0,0.103,0.0383,1
+4zN21mbAuaD0WqtmaTZZeP,Ferrari,James Hype,74,202639,"['deep groove house', 'edm', 'house', 'pop dance', 'uk dance']",86,Ferrari,2022,0.847,0.692,0.69,125.004,-7.877,0.0493,6e-05,0.0526,0.0127,1
+0hquQWY3xvYqN4qtiquniF,Vegas (From the Original Motion Picture Soundtrack ELVIS),Doja Cat,88,23698604,"['dance pop', 'pop']",85,Vegas (From the Original Motion Picture Soundtrack ELVIS),2022,0.801,0.74,0.601,159.969,-7.574,0.255,3.23e-05,0.145,0.0777,8
+2zmzEwlmb5wtGvTuS2Sjrg,In My Dreams,Besomorph,64,99743,"['alt z', 'slap house', 'traprun']",52,In My Dreams,2022,0.572,0.343,0.743,129.984,-6.713,0.0982,0.0,0.093,0.03,2
+5YbPxJwPfrj7uswNwoF1pJ,Last Last,Burna Boy,81,4246854,"['afro dancehall', 'dancehall', 'nigerian hip hop', 'nigerian pop']",80,"Love, Damini",2022,0.795,0.55,0.565,87.925,-4.457,0.0948,0.0,0.0802,0.131,3
+26hOm7dTtBi0TdpDGl141t,Die For You,Joji,87,7701139,['viral pop'],89,SMITHEREENS,2022,0.472,0.154,0.518,147.805,-7.379,0.051,0.127,0.289,0.383,8
+4cacyP5c3PMlfnyjpg13xW,Betty (Get Money),Yung Gravy,74,1537763,['minnesota hip hop'],79,Betty (Get Money),2022,0.723,0.58,0.772,102.004,-6.784,0.0792,1.15e-05,0.367,0.00524,1
+0Ni3UTucdl8y2j3EG4w5PB,omg,Gloria Kim,47,5044,[],48,omg,2022,0.729,0.796,0.84,117.982,-4.953,0.0324,0.000771,0.0721,0.0274,9
+2KukL7UlQ8TdvpaA7bY3ZJ,BREAK MY SOUL,Beyoncé,87,33066838,"['dance pop', 'pop', 'r&b']",77,BREAK MY SOUL,2022,0.687,0.853,0.887,114.941,-5.04,0.0826,2.21e-06,0.27,0.0575,1
+6CDzDgIUqeDY5g8ujExx2f,Heat Waves,Glass Animals,79,3555369,"['gauze pop', 'indietronica', 'shiver pop']",82,Heat Waves,2022,0.761,0.531,0.525,80.87,-6.9,0.0944,6.7e-06,0.0921,0.44,11
+0y60itmpH0aPKsFiGxmtnh,Wait a Minute!,WILLOW,75,2264169,"['afrofuturism', 'pop', 'post-teen pop']",81,ARDIPITHECUS,2022,0.764,0.672,0.705,101.003,-5.279,0.0278,1.94e-05,0.0943,0.0371,3
+2HTFsJX14lj7BaKkBzqpTF,Too Late,BRAN,52,3722,['traprun'],42,Too Late,2022,0.526,0.132,0.664,123.948,-11.902,0.162,2.88e-06,0.494,0.557,5
+6xGruZOHLs39ZbVccQTuPZ,Glimpse of Us,Joji,87,7701139,['viral pop'],89,Glimpse of Us,2022,0.44,0.268,0.317,169.914,-9.258,0.0531,4.78e-06,0.141,0.891,8
+3F5CgOj3wFlRv51JsHbxhe,Jimmy Cooks (feat. 21 Savage),Drake,97,70260570,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']",89,"Honestly, Nevermind",2022,0.529,0.366,0.673,165.921,-4.711,0.175,2.41e-06,0.093,0.000307,0
+1nFRGGmKifY0EKw9e6dmFL,Criss Cross,3409,36,2263,[],41,Criss Cross,2022,0.72,0.731,0.75,85.001,-2.731,0.0495,4.72e-05,0.0931,0.098,1
+6GD1eomgaGT1Epto6Q5eAo,golden hour,JVKE,81,1187339,['modern indie pop'],61,golden hour,2022,0.511,0.143,0.594,94.473,-4.799,0.0316,0.177,0.249,0.651,1
+1r9xUipOqoNwggBpENDsvJ,Enemy (with JID) - from the series Arcane League of Legends,Imagine Dragons,89,44343273,"['modern rock', 'rock']",84,Enemy (with JID) [from the series Arcane League of Legends],2022,0.728,0.555,0.783,77.011,-4.424,0.266,0.0,0.434,0.237,11
+1IHWl5LamUGEuP4ozKQSXZ,Tití Me Preguntó,Bad Bunny,100,61605591,"['reggaeton', 'trap latino', 'urbano latino']",94,Un Verano Sin Ti,2022,0.65,0.187,0.715,106.672,-5.198,0.253,0.000291,0.126,0.0993,5
+2hZXL9FpkPhwvTGxwcl115,Lost Myself To You,Besomorph,64,99743,"['alt z', 'slap house', 'traprun']",49,Lost Myself To You,2022,0.634,0.24,0.511,119.989,-10.843,0.0703,0.0,0.159,0.403,3
+1ei3hzQmrgealgRKFxIcWn,In The Stars,Benson Boone,73,487109,['pop'],83,In The Stars,2022,0.362,0.3,0.54,78.007,-6.031,0.0528,0.0,0.139,0.338,10
+2gYj9lubBorOPIVWsTXugG,After LIKE,IVE,75,1531236,['k-pop girl group'],84,After LIKE,2022,0.68,0.799,0.922,125.014,-1.215,0.121,0.0,0.0877,0.103,0
+6fdaJCEgvQD63WgHALaLrw,Broken Roads,Arc North,57,75246,"['covertronica', 'gaming edm', 'pop edm', 'slap house', 'traprun']",46,Broken Roads,2022,0.576,0.669,0.826,88.046,-4.935,0.0633,1.72e-06,0.445,0.276,2
+27ZZdyTSQWI7Cug2d2PkqV,BILLIE EILISH.,Armani White,71,199686,['indie hip hop'],84,BILLIE EILISH.,2022,0.9,0.765,0.509,100.007,-6.647,0.257,1.67e-06,0.0937,0.115,1
+1BSMpVGWs3v5BZKnAQziAc,Light Switch,Charlie Puth,84,18814377,"['dance pop', 'pop', 'viral pop']",54,Light Switch,2022,0.69,0.912,0.626,184.009,-5.693,0.306,0.000335,0.0881,0.105,6
+58HvfVOeJY7lUuCqF0m3ly,MIDDLE OF THE NIGHT,Elley Duhé,77,373247,"['alt z', 'pop']",87,MIDDLE OF THE NIGHT,2022,0.41,0.0899,0.611,185.727,-8.271,0.0467,0.0,0.116,0.0228,4
+0RmUjfvAxzX7fuCONnFcSo,When Angels Lie,Besomorph,64,99743,"['alt z', 'slap house', 'traprun']",47,When Angels Lie,2022,0.549,0.295,0.609,119.967,-8.613,0.0927,0.0,0.193,0.54,9
+1rDQ4oMwGJI7B4tovsBOxc,First Class,Jack Harlow,82,2747106,"['deep underground hip hop', 'kentucky hip hop', 'rap']",63,First Class,2022,0.905,0.324,0.563,106.998,-6.135,0.102,9.71e-06,0.113,0.0254,8
+6zSpb8dQRaw0M1dK8PBwQz,Cold Heart - PNAU Remix,Elton John,87,10650687,"['glam rock', 'mellow gold', 'piano rock']",86,Cold Heart (PNAU Remix),2022,0.796,0.942,0.798,116.032,-6.312,0.0317,4.19e-05,0.0952,0.034,1
+0e8nrvls4Qqv5Rfa2UhqmO,THATS WHAT I WANT,Lil Nas X,83,12179866,"['lgbtq+ hip hop', 'pop']",84,MONTERO,2022,0.737,0.546,0.846,87.981,-4.51,0.22,0.0,0.0486,0.00614,1
+4ZTqBmmd5TDYNBtmwgHaZS,if I was YOU,Meric,49,2979,[],45,if I was YOU,2022,0.686,0.899,0.824,149.966,-6.41,0.0607,7.99e-05,0.316,0.228,11
+4pi1G1x8tl9VfdD9bL3maT,Big Energy,Latto,72,938231,"['pop', 'rap', 'trap queen']",68,777,2022,0.937,0.794,0.793,106.022,-4.431,0.115,0.0,0.341,0.0453,11
+3GYlZ7tbxLOxe6ewMNVTkw,TV,Billie Eilish,89,73989789,"['art pop', 'electropop', 'pop']",86,Guitar Songs,2022,0.412,0.119,0.236,140.214,-15.159,0.0379,0.00653,0.147,0.83,4
+3k3NWokhRRkEPhCzPmV8TW,Ojitos Lindos,Bad Bunny,100,61605591,"['reggaeton', 'trap latino', 'urbano latino']",92,Un Verano Sin Ti,2022,0.647,0.268,0.686,79.928,-5.745,0.0413,1.34e-06,0.528,0.08,3
+4oJO1HOU7jOT64onXlZk83,So Low,Besomorph,64,99743,"['alt z', 'slap house', 'traprun']",52,So Low,2022,0.501,0.713,0.576,180.175,-9.882,0.0728,0.0,0.118,0.434,4
+0vwF1PVvU7EJpKKGRDgdaQ,Remember - Acoustic / Sped Up,Becky Hill,77,575288,"['dance pop', 'edm', 'pop', 'pop dance', 'pop house', 'tropical house', 'uk dance']",71,Remember (Versions),2022,0.602,0.548,0.525,136.932,-6.765,0.0504,0.0,0.0943,0.81,7
+2m6Ko3CY1qXNNja8AlugNc,Angel Baby,Troye Sivan,77,7397391,"['australian pop', 'dance pop', 'pop', 'viral pop']",79,Angel Baby,2022,0.559,0.338,0.559,72.498,-6.425,0.0358,0.0,0.138,0.0145,11
